@@ -1,5 +1,6 @@
 _site
 .sass-cache
+.jekyll-metadata
+*.DS_Store
 Gemfile.lock
-*.gem
-.jekyll-cache
+.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f6/19493eac8d84def377246629c1ce9463d73ab3c5d381e3a46feb68c033e3ef
