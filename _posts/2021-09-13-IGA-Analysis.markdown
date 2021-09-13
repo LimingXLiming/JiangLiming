@@ -1,0 +1,10 @@
+---
+layout: post
+title:  IGA based construction oriented topology optimization
+date:   2021-08-13 15:01:35 +0300
+image:  iga.png
+tags:   journal
+---
+## Isogeometric analysis based design of post-tensioned concrete beam towards construction-oriented topology optimization
+# Zhang, Zixin;Yarlagadda, Tejeswar; Zheng, Yao; Jiang, Liming*; Usmani, Asif
+Topology optimization as a computational approach is used to find an optimal structure with specific objectives such as an ultimately lightweight design. The optimization is normally performed under a series of constraint functions to ensure expected structural performance for safety and resilience. To promote the use of topology optimization in structural engineering, it is crucially important to identify and apply suitable constraints for realistic construction. In this paper, a conceptual attempt aiming for a construction-oriented topology optimization framework is presented. An isogeometric analysis module using NURBS curves for geometric description and discretization is employed in stress analyses, which incorporates the density based SIMP optimization approach to generate the optimized topology. A Drucker-Prager criterion is adopted to constrain the stresses within the unequal limits of tension and compression for the use of concrete type material. To prevent slim components of potentially high complexity in construction, a minimum-width control is applied as an additional geometric control. In this paper, the conceptual framework is demonstrated using a prestressed concrete beam, while the optimization is performed to find suitable density distribution of concrete and a NURBS-described tendon profile after imposing the mapped prestressed action. The iterative optimization processes are presented and demonstrated to investigate the effect of tensile-compressive strength ratio and the minimum width, which reflects the construction-oriented vision pursuing a more regularized topology after applying the constraints in optimization.
