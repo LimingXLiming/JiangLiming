@@ -2,12 +2,8 @@
 layout: page
 title: Publication
 permalink: /Publication/
-
+image: pub.jpg
 ---
-
-
-***
-
 #### Journal Publication
 <p>Since 2020:</p>
 <ol>
