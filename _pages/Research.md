@@ -35,3 +35,5 @@ To promote the use of topology optimization in structural engineering, it is cru
 
 The system comprises a radiant panel complex, gas suppliers and controller items. The radiant panel covering a large range of heat flux (up to 200kw/m2 equivalent to large fires) is externally applied to the testing specimens, which enables direct observation of students on the thermal performance and fire response of building materials and devices. Particularly, each unit can be individually activated (e.g., only Unit 1, or Units 1&2, or all units) to offer high flexibility allowing various scales of testing. The system is supported by the Large Equipment Fund of PolyU.
 ![]({{site.baseurl}}/images/panel.jpg)
+
+***
