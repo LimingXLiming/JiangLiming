@@ -2,7 +2,7 @@
 layout: post
 title:  SIF2022 will be hosted by PolyU
 date:   2021-09-14 18:01:35 +0800
-image:  sif2022.jpg
+image:  SIF2022.jpg
 tags:   News
 ---
 ## International conference on structures in fire (SIF2022) will be hosted by PolyU
