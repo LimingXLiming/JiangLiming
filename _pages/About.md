@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: 12.jpg
+image: about.jpg
 ---
 
 Dr JIANG Liming is Assistant Professor in the Department of Building Environment and Energy Building, working primarily on fire safety engineering of building structures. His Research Interests include: Fire behavior in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for structures in fire; Fire-safe timber structure; Computational modelling and software development:OpenSees for Fire (openseesforfire.github.io)
@@ -44,18 +44,38 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 
 #### Research & Teaching Grants
 <p>As PI</p>
-<ul>
-  <li>Large Equipment Fund: A radiant heat exposure system for demonstrating thermal performance and fire safety in the built environment, 737K HKD, 2021-2022, PI</li>
-  <li>State Key Lab of Disaster Reduction in Civil Engineering Open Fund: Distributed hybrid testing system for structural response to real fires, 500K CNY, 2021-2023, PI.</li>
-  <li>Post-doc Matching Fund: Hybrid Simulation for Structures in Fire, 283K HKD, 2021-2022, PI.</li>
-  <li>SHUA Research Activity Fund: Forums for urban construction and resilience towards utilizing next generation of multi-disciplinary technologies, 40K HKD, 2021, PI.</li>
-  <li>University Start-up Fund: Computational modelling on modern buildings subjected to fire, 600K HKD, 2020-2023, PI.</li>
-  <li> Undergraduate Research and Innovation Scheme (URIS): Study of timber buildings in fire, 30K HKD, 2021-2022, PI. </li>
-  <li> Undergraduate Research and Innovation Scheme (URIS): Study of combustion behaviour of constructional timber in buildings, 30K HKD, 2021-2022, PI. </li>
-  <li> Undergraduate Research and Innovation Scheme (URIS): Study of fire impact on glass panels, 30K HKD, 2021-2022, PI. </li>
-</ul>
+* Large Equipment Fund: A radiant heat exposure system for demonstrating thermal performance and fire safety in the built environment, 737K HKD, 2021-2022, PI
+* State Key Lab of Disaster Reduction in Civil Engineering Open Fund: Distributed hybrid testing system for structural response to real fires, 500K CNY, 2021-2023, PI.
+*  Post-doc Matching Fund: Hybrid Simulation for Structures in Fire, 283K HKD, 2021-2022, PI.
+*  SHUA Research Activity Fund: Forums for urban construction and resilience towards utilizing next generation of multi-disciplinary technologies, 40K HKD, 2021, PI.
+*   University Start-up Fund: Computational modelling on modern buildings subjected to fire, 600K HKD, 2020-2023, PI.
+*   Undergraduate Research and Innovation Scheme (URIS): Study of timber buildings in fire, 30K HKD, 2021-2022, PI. 
+*   Undergraduate Research and Innovation Scheme (URIS): Study of combustion behaviour of constructional timber in buildings, 30K HKD, 2021-2022, PI.
+*   Undergraduate Research and Innovation Scheme (URIS): Study of fire impact on glass panels, 30K HKD, 2021-2022, PI. 
+  
 <p>As CO-I</p>
-<ul>
-  <li>PolyU MOOC Fund: Introduction for Fire Safety Engineering, 400K HKD, 2020-2023, Co-I.</li>
-  <li>Large Equipment Fund: Analytical platform for material flammability and fire emissions for fire and safety engineering education, 987K HKD, 2021-2022, Co-I.</li>
-</ul>
+
+*  PolyU MOOC Fund: Introduction for Fire Safety Engineering, 400K HKD, 2020-2023, Co-I.
+*  Large Equipment Fund: Analytical platform for material flammability and fire emissions for fire and safety engineering education, 987K HKD, 2021-2022, Co-I.
+
+#### Academic Duties
+* BSE3321:Fire Services, Undergraduate Subject
+* BSE4317:Fire Engineering Safety Management, Undergraduate Subject
+* BSE532:Fire Engineering Systems, MEng Subject
+* BSE534:Legislation Aspects of Fire Safety Management, MEng Subject
+* BSE574/577:Research Methods, MEng Subject
+* BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
+
+#### Academic Duties
+
+* Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
+* Research leader of structural fire engineering, Research Center for Fire Safety Engineering, PolyU.
+* Guest editor of Special Issue on Fire Engineering of High-rise Buildings, International Journal of High-rise Buildings.
+* Chair of mini-symposium of ICOSSAR 2021: fire safety, smart fire application.
+* Scientific Committee Member of AOSFST 2021.
+* Scientific Committee Member of SIF 2018, 2020; Session Chair of SIF2020.
+* Scientific Committee Member of CONFAB2017, 2019; Session Chair of CONFAB2017.
+* Member of SFPE, Advisor of SFPE Hong Kong Student Chapter.
+* Member of RISUD, Division of Urban Infrastructure, PolyU.
+* Journal Reviewer for "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, “Journal of Structural Fire Engineering”, etc.
+* External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
