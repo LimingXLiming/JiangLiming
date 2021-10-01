@@ -67,7 +67,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
 
 #### Academic Duties
-
+* Co-Chair of Organising Committee of International Conference of Structures in Fire (SIF2022).
 * Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
 * Research leader of structural fire engineering, Research Center for Fire Safety Engineering, PolyU.
 * Guest editor of Special Issue on Fire Engineering of High-rise Buildings, International Journal of High-rise Buildings.

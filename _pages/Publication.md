@@ -13,9 +13,9 @@ image: pub.jpg
   <li>T. Yarlagadda, Z. Zhang, Liming Jiang, P. Bhargava, A. Usmani. 2021. Solid isotropic material with thickness penalization-A 2.5D method for structural topology optimization. Computers & Structures (under review)</li>
   <li> X. Cai, C. Yang, Y. Yuan, Liming Jiang, 2021. Reinforcement Ratio's Effects on Seismic Performance of a Hypothetical Station with Full-scale Central Column Tests. Engineering Structures (under review).</li>
   <li>J. Qiu, Liming Jiang*, A. Usmani, 2021. Post-fire Performance and Repair of Reinforced Concrete Structural Members: A Review. International Journal of High-rise Buildings (in process). </li>
-  <li> M. Anwar, J. Qiu, Liming Jiang*, A. Usmani,  2021. Modelling concrete slabs subjected to localised fire action with OpenSees, Journal of Structural Fire Engineering (under review).</li>
+  <li> M. Anwar, J. Qiu, Liming Jiang*, A. Usmani,  2021. Modelling concrete slabs subjected to localised fire action with OpenSees, Journal of Structural Fire Engineering.</li>
   <li> Zixin Zhang, Tejeswar Yarlagadda, Yao Zheng, Liming Jiang*, Asif Usmani, 2021. Isogeometric analysis based design of post-tensioned concrete beam towards construction-oriented topology optimization. Structural and Multidisciplinary Optimization.</li>
-  <li> Khan, A., Khan, M., Zhang, C., Liming Jiang, Usmani, A., 2021. OpenFIRE: An Open Computational Framework for Structural Response to Real Fires. Fire Technology (under review).</li>
+  <li> Khan, A., Khan, M., Zhang, C., Liming Jiang, Usmani, A., 2021. OpenFIRE: An Open Computational Framework for Structural Response to Real Fires. Fire Technology.</li>
   <li> Liming Jiang, A. Orabi, J. Jiang, A., Usmani, 2020. Modelling concrete slabs subjected to fires using nonlinear layered shell elements and concrete damage plasticity material. Engineering Structures, 234, 111977.</li>
   <li> Liming Jiang*, Y.Jiang, Z., Zhang, A., Usmani, 2021. Thermal analysis in OpenSees for fire and its smart application interface towards natural fire modelling. Fire Technology.</li>
   <li> M. Zhou, Liming. Jiang, S.W. Chen, R.P.R. Cardoso and A. Usmani, 2020. Residual Fire Resistance of Steel Frames Following Moderate Earthquake - A Case Study. Journal of Constructional Steel Research,164, 105754. </li>
