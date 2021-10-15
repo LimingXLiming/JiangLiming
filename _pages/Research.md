@@ -32,8 +32,8 @@ Timber is intended to become a major constructional material in future urbanizat
 ## Advanced modelling and testing
 ![]({{site.baseurl}}/images/IGAsim.jpg)
 To promote the use of topology optimization in structural engineering, it is crucially important to identify and apply suitable constraints for realistic construction. In this paper, a conceptual attempt aiming for a construction-oriented topology optimization framework.
-
-The system comprises a radiant panel complex, gas suppliers and controller items. The radiant panel covering a large range of heat flux (up to 200kw/m2 equivalent to large fires) is externally applied to the testing specimens, which enables direct observation of students on the thermal performance and fire response of building materials and devices. Particularly, each unit can be individually activated (e.g., only Unit 1, or Units 1&2, or all units) to offer high flexibility allowing various scales of testing. The system is supported by the Large Equipment Fund of PolyU.
 ![]({{site.baseurl}}/images/Panel.jpg)
+The system comprises a radiant panel complex, gas suppliers and controller items. The radiant panel covering a large range of heat flux (up to 200kw/m2 equivalent to large fires) is externally applied to the testing specimens, which enables direct observation of students on the thermal performance and fire response of building materials and devices. Particularly, each unit can be individually activated (e.g., only Unit 1, or Units 1&2, or all units) to offer high flexibility allowing various scales of testing. The system is supported by the Large Equipment Fund of PolyU.
+
 
 ***
