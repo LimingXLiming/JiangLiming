@@ -25,7 +25,7 @@ approaches, this paper aims to propose a novel approach for modelling composite 
 ![]({{site.baseurl}}/images/hybrid.jpg)
 Hybrid testing has been used in earthquake engineering in the recent decade, which is preferred for its capability of addressing the whole-structure response using single member laboratory tests. This project is to establish a hybrid system integrating remote numerical model and synchronous specimen test for studying the behavior of structures in fire.
 
-## Fire-safe timber buiildings
+## Fire-safe timber buildings
 ![]({{site.baseurl}}/images/timber.jpg)
 Timber is intended to become a major constructional material in future urbanization to reduce carbon emissions as a response to the climate change emergency. The fire safety of timber structures has been a long-standing challenge as timber members can contribute fuel to a fire. Traditional design approaches for timber structures have focused on estimating the char propagation in Standard fires, and the Eurocode models for timber have been devoted to this purpose. However, when considering the impact of realistic fire, the effect of non-uniform and non-standard burning in compartments indicates the key necessity of developing a suitable engineering model to estimate the realistic thermal responses of timber sections. 
 
