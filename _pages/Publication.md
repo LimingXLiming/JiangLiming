@@ -7,6 +7,7 @@ image: pub.jpg
 #### Journal Publication
 <p>Since 2020:</p>
 <ol>
+  <li>A. Orabi, Liming Jiang*, A. Usmani, J.Torero.  2021. The Collapse of World Trade Center 7: Revisited. Fire Technology (under review).(invited by SIF)</li>
   <li>J. Qiu, Liming Jiang*, M. Anwar, A. Usmani, G-Q. Li.  2021. A novel computational approach for modelling composite slabs in fire. Engineering Structures (under review).</li>
   <li>C.Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires. Fire Safety Journal (under review).</li>
   <li>A. Orabi, A. Khan*, Liming Jiang, T. Yarlagadda, A. Usmani. 2021. Integrated nonlinear structural simulation of tall buildings in fire. Engineering Structures (under review).</li>
