@@ -54,9 +54,12 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 *   Undergraduate Research and Innovation Scheme (URIS): Study of fire impact on glass panels, 30K HKD, 2021-2022, PI. 
   
 <p>As CO-I</p>
-
 *  PolyU MOOC Fund: Introduction for Fire Safety Engineering, 400K HKD, 2020-2023, Co-I.
 *  Large Equipment Fund: Analytical platform for material flammability and fire emissions for fire and safety engineering education, 987K HKD, 2021-2022, Co-I.
+
+<p>As Participant</p>
+*  Theme-based Scheme: SureFire: Smart Urban Resilience and Firefighting, 33 million HKD, 2020-2025.
+*  MOST, 十三五重点研发计划子课题，城市地面基础设施群运行保障关键技术研究与应用示范-城市地面关键基础设施运行风险辨识与评估技术， 4 million CNY.
 
 #### Academic Duties
 * BSE3321:Fire Services, Undergraduate Subject
