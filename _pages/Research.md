@@ -7,34 +7,31 @@ image: 13.jpg
 
 Dr JIANG Liming and his team are currently working on these topics: Fire behavior in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for structures in fire; Fire-safe timber structure; Computational modelling and software development(including OpenSees for Fire and Firefoam).
 
-## FIre behaviour in modern buildings
+
+## Simulation Platform: OpenSees for fire
+![]({{site.baseurl}}/images/structfire.jpg)
+We have  been  dedicated to developing a fire edition of OpenSees  since we were in University of Edinburgh. Modelling modern buildings responding to fires, comprises various modules, such as fire models, heat trasfer module, thermo-mechanical codes. After years of development, we have also provided interface to CFD  models, intergration middleware, and preprocessor and postprocess tool  GiD for OpenSees. We have been published  a  number of publications  on OpenSees for  fire and this simulation platform has enabled large flexibility for realising the  latest research methodlogies  for simulating modern buildings in complex fires. For more information  about OpenSees for  fire, please check our project website:  openseesforfire.github.io
+
+## Simulation Platform: Customised FDS and Pyrosim
 ![]({{site.baseurl}}/images/semifire.jpg)
 Modern buildings are commonly designed with large open-plan space. The fire behaviour in these buildings has been found out of the regime of traditional design fire scenarios, which normally assume The typical travelling fire scenarios have been summarized by extracting the data from the seven full scale travelling fire tests since 2010.  To consider the realistic fire scenarios in large-open plan compartments, a series of travelling fire scenarios are proposed, which employs variable flame spread speeds and fire sizes instead of constant travelling speed and fire size as adopted in the current models. 
-
-
-## Structural response to fires
-![]({{site.baseurl}}/images/structfire.jpg)
-Modelling tall buildings responding to fires, especially multi-floor fires, requires the
-consideration of composite slabs as the composite action can significantly affect the structure
-fire response. Modelling composite slabs in fire is tedious and complex due to the existence of
-ribs and complicated thermal action. In view of the complexity of the existing modelling
-approaches, this paper aims to propose a novel approach for modelling composite slabs in fire.
 
 
 ## Hybrid simulation/testing
 ![]({{site.baseurl}}/images/hybrid.jpg)
 Hybrid testing has been used in earthquake engineering in the recent decade, which is preferred for its capability of addressing the whole-structure response using single member laboratory tests. This project is to establish a hybrid system integrating remote numerical model and synchronous specimen test for studying the behavior of structures in fire.
 
+![]({{site.baseurl}}/images/Panel.jpg)
+This radiant panle testing system is supported by the Large Equipment Fund. The system comprises a radiant panel complex, gas suppliers and controller items. The radiant panel covering a large range of heat flux (up to 200kw/m2 equivalent to large fires) is externally applied to the testing specimens, which enables direct observation of students on the thermal performance and fire response of building materials and devices. Particularly, each unit can be individually activated (e.g., only Unit 1, or Units 1&2, or all units) to offer high flexibility allowing various scales of testing. The system is supported by the Large Equipment Fund of PolyU.
+
 ## Fire-safe timber buildings
 ![]({{site.baseurl}}/images/timber.jpg)
 Timber is intended to become a major constructional material in future urbanization to reduce carbon emissions as a response to the climate change emergency. The fire safety of timber structures has been a long-standing challenge as timber members can contribute fuel to a fire. Traditional design approaches for timber structures have focused on estimating the char propagation in Standard fires, and the Eurocode models for timber have been devoted to this purpose. However, when considering the impact of realistic fire, the effect of non-uniform and non-standard burning in compartments indicates the key necessity of developing a suitable engineering model to estimate the realistic thermal responses of timber sections. 
 
-## Advanced modelling and testing
+## Next-generation  structural design: Construciton-oriented and Optimizaiton-based  design
 ![]({{site.baseurl}}/images/IGAsim.jpg)
 Topology optimization as a computational approach is used to find an optimal structure with specific objectives such as an ultimately lightweight design. The optimization is normally performed under a series of constraint functions to ensure expected structural performance for safety and resilience. To promote the use of topology optimization in structural engineering, it is crucially important to identify and apply suitable constraints for realistic construction. A conceptual attempt aiming for a construction-oriented topology optimization framework has been developed.An isogeometric analysis module using NURBS curves for geometric description and discretization is employed in stress analyses, which incorporates the density-based SIMP optimization approach to generate the optimized topology. We have recently develop the IGA elements and TO applciation within OpenSees and we will continue to use this for construction-oriented optimization of structural design.
 
-![]({{site.baseurl}}/images/Panel.jpg)
-This radiant panle testing system is supported by the Large Equipment Fund. The system comprises a radiant panel complex, gas suppliers and controller items. The radiant panel covering a large range of heat flux (up to 200kw/m2 equivalent to large fires) is externally applied to the testing specimens, which enables direct observation of students on the thermal performance and fire response of building materials and devices. Particularly, each unit can be individually activated (e.g., only Unit 1, or Units 1&2, or all units) to offer high flexibility allowing various scales of testing. The system is supported by the Large Equipment Fund of PolyU.
 
 ***
 ## Strategic collaboration on testing facilities
