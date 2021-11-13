@@ -36,7 +36,10 @@ Topology optimization as a computational approach is used to find an optimal str
 
 
 ***
-## Strategic collaboration on testing facilities
-* Fire testing and hybrid testing in Tongji University, supported by MoU and an open fund project with Prof LI Guoqiang.
+## Strategic collaboration on testing facilities and research
+* Fire testing and hybrid testing in Tongji University, supported by MoU and an open fund project with Prof LI Guoqiang (Tongji).
 * Large-scale fire testing in Sichuan Fire Research Institute (SCFRI)
 * Fire testing in China University of Mining and Technology (CMUT)
+* FIre safey engineering research witth Fire Group in Universitty of Queendland, Australia (UQ)
+* Low carbon buiding with University of Sheffield, UK.
+* Indusrial collaborators: an extensive collection  of insdustrial collaborators built while working in Counry Garden Group.
