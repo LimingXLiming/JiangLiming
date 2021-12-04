@@ -5,12 +5,12 @@ permalink: /Research/
 image: 13.jpg
 ---
 
-Dr JIANG Liming and his team are currently working on these topics: Fire behavior in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for structures in fire; Fire-safe timber structure; Computational modelling and software development(including OpenSees for Fire and Firefoam).
+Dr JIANG Liming and his team are currently working on these topics: Fire behavior in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for structures in fire; Fire-safe timber structure; Computational modelling and software development(including OpenSees for Fire and FDS).
 
 
 ## Simulation Platform: OpenSees for fire
 ![]({{site.baseurl}}/images/structfire.jpg)
-We have  been  dedicated to developing a fire edition of OpenSees  since we were in University of Edinburgh working with Prof Asif Usmani. Modelling modern buildings responding to fires, comprises various modules, such as fire models, heat trasfer module, thermo-mechanical codes. After years of development, we have also provided interface to CFD  models, intergration middleware, and preprocessor and postprocess tool  GiD for OpenSees. We have been published  a  number of publications  on OpenSees for  fire and this simulation platform has enabled large flexibility for realising the  latest research methodlogies  for simulating modern buildings in complex fires. For more information  about OpenSees for  fire, please check our project website:  openseesforfire.github.io
+We have  been  dedicated to developing a fire edition of OpenSees  since we were in University of Edinburgh working with Prof Asif Usmani. Modelling modern buildings responding to fires, comprises various modules, such as fire models, heat trasfer module, thermo-mechanical codes. After years of development, we have also provided interface to CFD  models, intergration middleware, and preprocessor and postprocess tool  GiD for OpenSees. We have been published  a  number of publications  on OpenSees for  fire and this simulation platform has enabled large flexibility for realising the  latest research methodlogies  for simulating modern buildings in complex fires. For more information  about OpenSees for  fire, please check our project website:  [openseesforfire.github.io](http://openseesforfire.github.io/)
 
 ## Customised FDS simulation and fire testing for modern building fire safety
 ![]({{site.baseurl}}/images/semifire.jpg)
@@ -37,9 +37,9 @@ Topology optimization as a computational approach is used to find an optimal str
 
 ***
 ## Strategic collaboration on testing facilities and research
-* Fire testing and hybrid testing in Tongji University, supported by MoU and an open fund project with Prof LI Guoqiang (Tongji).
+* Fire testing and hybrid testing in Tongji University, supported by MoU and an open fund project with [Prof LI Guoqiang](http://steelpro.net/Default.aspx) (Tongji).
 * Large-scale fire testing in Sichuan Fire Research Institute (SCFRI)
 * Fire testing in China University of Mining and Technology (CMUT)
-* FIre safey engineering research witth Fire Group in Universitty of Queendland, Australia (UQ)
+* FIre safey engineering research with [Fire Group in Universitty of Queendland](https://civil.uq.edu.au/research/fire-safety-engineering), Australia (UQ)
 * Low carbon buiding with University of Sheffield, UK.
 * Indusrial collaborators: an extensive collection  of insdustrial collaborators built while working in Counry Garden Group.

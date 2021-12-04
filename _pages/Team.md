@@ -13,7 +13,7 @@ image: team.jpg
 * MEng/MSc Students: Ms Zhang Ming, Mr Luo Chongyu, Mr Morgan Lau, Ms Vlauhs LAU.
 
 #### Opportunities
-* Hong Kong PhD Fellowship, application entry: PolyU HKPF Application
+* [Hong Kong PhD Fellowship](https://www.polyu.edu.hk/gs/hkpfs/what_is_the_fellowship.html), application entry: [PolyU HKPF Application](https://www.polyu.edu.hk/gs/hkpfs/how_to_apply.html)
 * PhD Studentship
 * Research Assistant
 * Post-doc Research Fellow

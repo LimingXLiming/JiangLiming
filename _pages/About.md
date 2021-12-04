@@ -5,42 +5,35 @@ permalink: /about/
 image: about.jpg
 ---
 
-Dr JIANG Liming is Assistant Professor in the Department of Building Environment and Energy Building, working primarily on fire safety engineering of building structures. His Research Interests include: Fire behavior in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for structures in fire; Fire-safe timber structure; Computational modelling and software development:OpenSees for Fire:[openseesforfire.github.io](https://openseesforfire.github.io){:target="_blank"}{:rel="noopener noreferrer"}
+Dr JIANG Liming is Assistant Professor in the Department of Building Environment and Energy Building, working primarily on fire safety engineering of building structures. His Research Interests include: Fire behavior in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for structures in fire; Fire-safe timber structure; Computational modelling and software development:OpenSees for Fire: [openseesforfire.github.io](https://openseesforfire.github.io)
 
 ***
 
 #### Education Background
 
-<ul>
-  <li>BEng (Civil Engineering),2008, Tongji University, Shanghai </li>
-  <li>MSc (Structural Engineering), 2011, Tongji University, Shanghai</li>
-  <li>PhD (Fire Safety Engineering), 2016, Edinburgh University, Edinburgh</li>
-</ul>
+* BEng (Civil Engineering),2008, Tongji University, Shanghai 
+* MSc (Structural Engineering), 2011, Tongji University, Shanghai
+* PhD (Fire Safety Engineering), 2016, Edinburgh University, Edinburgh
 
 
 #### Work Experience
 
-<ul>
-  <li>Assistant Professor, BSE, The Hong Kong Polytechnic University, from 2019.10  </li>
-  <li>Part-time Research Fellow, The Hong Kong Polytechnic University, 2018.02-2019.02 </li>
-  <li>Postdoctoral Research Fellow, The Hong Kong Polytechnic University, 2016.09-2017.12 </li>
-  <li>Postdoctoral Research Fellow, Brunel University London, 2016.01-2016.08 </li>
-</ul>
+* Assistant Professor, BSE, The Hong Kong Polytechnic University, from 2019.10  
+* Part-time Research Fellow, The Hong Kong Polytechnic University, 2018.02-2019.02 
+* Postdoctoral Research Fellow, The Hong Kong Polytechnic University, 2016.09-2017.12
+* Postdoctoral Research Fellow, Brunel University London, 2016.01-2016.08
 
-<ul>
-  <li>General Manager, Country Garden Group, 2019.05-2019.09 </li>
-  <li>Assistant General Manager, ‘Global Future Leader’ Program, Country Garden Group, 2018.01-2019.04 </li>
-</ul>
+
+* General Manager, [Country Garden Group](https://www.bgy.com.cn/), 2019.05-2019.09 
+* Assistant General Manager, ‘Global Future Leader’ Program, [Country Garden Group](https://www.bgy.com.cn/), 2018.01-2019.04 
 
 
 #### Research Interests
-<ul>
-  <li>Fire safety of modern buildings </li>
-  <li>Hybrid simulation/testing for structures in fire</li>
-  <li>Fire-safe timber structure</li>
-  <li>Computational modelling and software development</li>
-  <li>OpenSees for Fire: openseesforfire.github.io </li>
-</ul>
+* Fire safety of modern buildings 
+* Hybrid simulation/testing for structures in fire
+* Fire-safe timber structure
+* Computational modelling for buildings in fire
+* OpenSees based software development
 
 #### Research & Teaching Grants
 <p>As PI</p>
@@ -61,7 +54,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 *  Theme-based Scheme: SureFire: Smart Urban Resilience and Firefighting, 33 million HKD, 2020-2025.
 *  MOST, 十三五重点研发计划子课题，城市地面基础设施群运行保障关键技术研究与应用示范-城市地面关键基础设施运行风险辨识与评估技术， 4 million CNY.
 
-#### Academic Duties
+#### Teaching Subjects
 * BSE3321:Fire Services, Undergraduate Subject
 * BSE4317:Fire Engineering Safety Management, Undergraduate Subject
 * BSE532:Fire Engineering Systems, MEng Subject

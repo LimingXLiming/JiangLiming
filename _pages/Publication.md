@@ -4,6 +4,7 @@ title: Publication
 permalink: /Publication/
 image: pub.jpg
 ---
+For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
 <p>Since 2020:</p>
 <ol>
@@ -11,7 +12,7 @@ image: pub.jpg
   <li>A. Orabi, Liming Jiang*, A. Usmani, J.Torero.  2021. The Collapse of World Trade Center 7: Revisited. Fire Technology (under review).(invited by SIF)</li>
   <li>J. Qiu, Liming Jiang*, M. Anwar, A. Usmani, G-Q. Li.  2021. A novel computational approach for modelling composite slabs in fire. Engineering Structures (under review).</li>
   <li>C.Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires. Fire Safety Journal (under review).</li>
-  <li>A. Orabi, A. Khan*, Liming Jiang, T. Yarlagadda, A. Usmani. 2021. Integrated nonlinear structural simulation of tall buildings in fire. Engineering Structures (Accepted).</li>
+  <li>A. Orabi, A. Khan*, Liming Jiang, T. Yarlagadda, A. Usmani. 2021. [Integrated nonlinear structural simulation of tall buildings in fire](https://doi.org/10.1016/j.engstruct.2021.113593). Engineering Structures.</li>
   <li>T. Yarlagadda, Z. Zhang, Liming Jiang, P. Bhargava, A. Usmani. 2021. Solid isotropic material with thickness penalization-A 2.5D method for structural topology optimization. Computers & Structures (under review)</li>
   <li> X. Cai, C. Yang, Y. Yuan, Liming Jiang, 2021. Reinforcement Ratio's Effects on Seismic Performance of a Hypothetical Station with Full-scale Central Column Tests. Bulletin of Earthquake Engineering (under review).</li>
   <li>J. Qiu, Liming Jiang*, A. Usmani, 2021. Post-fire Performance and Repair of Reinforced Concrete Structural Members: A Review. International Journal of High-rise Buildings (in press). </li>
@@ -62,3 +63,13 @@ image: pub.jpg
 	<li> Liming Jiang, Y.Q. Jiang, J. Jiang, A. Usmani and S.W. Chen, 2014. An opensees-based integrated tool for modelling structures in realistic design fires, 8th International Conference on Structures in Fire (SIF2014), Shanghai. </li>
 
 </ul>
+
+#### Public Talks
+* Evolution of computational simulation for fire safety assessment of modern buildings towards hybrid approaches, HKIE Seminar, 2 Dec 2021.
+* 建筑火灾效应与结构受火响应分析的演化：基于OpenSees的开发与其潜力, Chong Qing University(重庆大学), 28 Nov 2021.
+* 碳中和背景下应用木结构建筑的火灾安全性及其模拟分析, 第一届海峡两岸暨港澳土木工程新材料及结构防灾减灾论坛, Xian(西安), 29 Oct 2021.
+* Webinar for SFPE UQ Student Chapter: What can computer modelling do for the fire safety of building structures?, 25 June 2021. 
+* OpenSees for fire Workshop for SIF2020, Queensland, Dec 2020
+* Workshop on Development in OpenSees, 1st Euro-Asian OpenSees Conference, Hong Kong, June 2019.
+* OpenSees for fire Workshop, Brunel University London, March 2016.
+* Development of OpenSees for modelling structures in fire, OpenSees Days Bristol, Bristol, June 2015.
