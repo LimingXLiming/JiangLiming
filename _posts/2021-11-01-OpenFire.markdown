@@ -3,7 +3,7 @@ layout: post
 title:  OpenFire for CFD-OpenSees
 date:   2021-11-01 18:01:35 +0800
 image:  openfire.jpg
-tags:   News
+tags:   Paper
 ---
 ## OpenFIRE: An Open Computational Framework for Structural Response to Real Fires
 

@@ -3,7 +3,7 @@ layout: post
 title:  Integrated simulation for tall buildings in fire
 date:   2021-12-01 18:01:35 +0800
 image:  IntegratedSim.jpg
-tags:   News
+tags:   Paper
 ---
 ## Integrated Nonlinear Structural Simulation of Tall Buildings in Fire
 

@@ -3,7 +3,7 @@ layout: post
 title:  Modelling Concrete Slabs Subjected to Fires in OpenSees
 date:   2021-02-24 15:01:35 +0300
 image:  slab.jpg
-tags:   journal
+tags:   Paper
 ---
 ## Modelling concrete slabs subjected to fires using nonlinear layered shell elements and concrete damage-plasticity material
 ##### Jiang, Liming; Anwar, Orabi; Jiang, Jian; Usmani, Asif
