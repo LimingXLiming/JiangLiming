@@ -7,14 +7,14 @@
   }
 
   .article__image {
-    width: 50%;
+    width: 30%;
     display: block;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: $light-gray;
     &:hover {
-      opacity: 0.9;
+      opacity: 0.5;
     }
 
     &:after {

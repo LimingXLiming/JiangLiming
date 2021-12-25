@@ -145,14 +145,17 @@
 
     .post__nav__image {
       display: block;
+	  width: 60%;
       margin-bottom: 40px;
+	  margin-left: auto;
+	  margin-right: auto;
       background-position: center;
       background-size: cover;
       background-repeat: no-repeat;
       background-color: $light-gray;
       transition: .35s ease-in-out;
       &:hover {
-        opacity: 0.9;
+        opacity: 0.5;
       }
       &:after {
         content: "";
