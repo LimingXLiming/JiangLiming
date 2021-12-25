@@ -3,7 +3,7 @@ layout: post
 title:  IGA based construction oriented topology optimization
 date:   2021-08-13 15:01:35 +0300
 image:  iga.png
-tags:   journal
+tags:   Paper
 ---
 ## Isogeometric analysis based design of post-tensioned concrete beam towards construction-oriented topology optimization
 ##### Zhang, Zixin;Yarlagadda, Tejeswar; Zheng, Yao; Jiang, Liming*; Usmani, Asif
