@@ -8,7 +8,9 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 #### Journal Publication
 <p>Since 2020:</p>
 <ol>
-  <li>X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Engineering Structures.(submitted).</li>
+  <li>Z. NAN, A. Khan, Liming Jiang*, S. Chen, A. Usmani. 2022. Application and Effect of Travelling Behavior Model to Large Compartment Fires.(pending to submission).</li>
+  <li>A. Khan,Z. NAN, Liming Jiang*, V.Gupta, S. Chen,M. Khan, J. Hidalgo, A. Usmani. 2022. Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios.(pending to submission).</li>
+  <li>X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Engineering Structures.(under review).</li>
   <li>Z. NAN, A. Khan, X. Zhang, Liming Jiang*, X.Huang*, A. Usmani.  2022. Fire Spread and Burning Dynamics of Non-uniform Wood Cribs for Evolved Design Fire Scenarios. Proceedings of Combustion Institute.(under review).</li>
   <li>A. Orabi, Liming Jiang*, X.Huang*, A. Usmani.  2021. A Review on the Fire Resilience and Tests of Two-Way Composite Floors . Fire Technology. (under review).</li>
   <li>A. Orabi, Liming Jiang*, A. Usmani, J.Torero.  2021. The Collapse of World Trade Center 7: Revisited. Fire Technology (under review).(invited by SIF)</li>
