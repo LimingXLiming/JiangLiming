@@ -5,7 +5,7 @@ permalink: /about/
 image: about.jpg
 ---
 
-Dr JIANG Liming is Assistant Professor in the Department of Building Environment and Energy Building, working primarily on fire safety engineering of building structures. His Research Interests include: Fire behavior in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for structures in fire; Fire-safe timber structure; Computational modelling and software development:OpenSees for Fire: [openseesforfire.github.io](https://openseesforfire.github.io)
+Dr JIANG Liming is Assistant Professor in the Department of Building Environment and Energy Building, working primarily on fire safety engineering of building structures. Before joining PolyU as AP, he worked in the Top real-estate developer Country Garden Group for nearly two years, where he was promoted in a fast track to Project General Manager. His Research Interests focus on the building industry and particularly fire safety of buildings, which include: Fire behaviour in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for fire safety engineering; Fire-safe timber structure; Computational modelling and software development:OpenSees for Fire: [openseesforfire.github.io](https://openseesforfire.github.io)
 
 ***
 
