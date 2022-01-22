@@ -8,7 +8,7 @@ image: 13.jpg
 Dr JIANG Liming and his team are currently working on these topics: Fire behavior in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for structures in fire; Fire-safe timber structure; Computational modelling and software development(including OpenSees for Fire and FDS).
 
 
-## Simulation Platform: OpenSees for fire
+## Integrated Simulation Platform for 'structures in fire': OpenSees for fire
 ![]({{site.baseurl}}/images/structfire.jpg)
 We have  been  dedicated to developing a fire edition of OpenSees  since we were in University of Edinburgh working with Prof Asif Usmani. Modelling modern buildings responding to fires, comprises various modules, such as fire models, heat transfer module, thermo-mechanical codes. After years of development, we have also provided interface to CFD  models, integration middleware, and preprocessor and post-process tool  GiD for OpenSees. We have been published  a  number of publications  on OpenSees for  fire and this simulation platform has enabled large flexibility for realising the  latest research methodlogies  for simulating modern buildings in complex fires. For more information  about OpenSees for  fire, please check our project website:  [openseesforfire.github.io](http://openseesforfire.github.io/)
 
