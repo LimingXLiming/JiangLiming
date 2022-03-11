@@ -5,7 +5,7 @@ permalink: /team/
 image: team.jpg
 ---
 
-#### Research Teeam
+#### Research Team
 * Post-doc researcher: Dr CAI Xuesong
 * Co-advised Post-doc researchers:Dr Anwar Orbi, Dr Aatif Khan
 * PhD students: Ms QIU Jin, Ms NAN Zhuojun, Mr CHEN Cheng, Mr CHU Tianwei，Ms WANG Ganyu (2022)
