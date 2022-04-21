@@ -8,7 +8,7 @@ image: team.jpg
 #### Research Team
 * Post-doc researcher: Dr CAI Xuesong
 * Co-advised Post-doc researchers:Dr Anwar Orbi, Dr Aatif Khan
-* PhD students: Ms QIU Jin, Ms NAN Zhuojun, Mr CHEN Cheng, Mr CHU Tianwei，Ms WANG Ganyu (2022)
+* PhD students: Ms QIU Jin, Ms NAN Zhuojun, Mr CHEN Cheng, Mr CHU Tianwei，Ms WANG Ganyu (2022)[RISUD RPg Studentship Funded]
 * Co-supervised/co-advised PhD students: Mr Zhang Zixin, Mr Venkata Ramakanth 
 * Jointly supervised MSc student(Tongji): Mr WANG Ziyi
 * MEng/MSc Students: [2020-21]Ms ZHANG Ming; [2021-22] Mr LUO Chongyu, Mr Morgan Lau, Ms Vlauhs LAU.
