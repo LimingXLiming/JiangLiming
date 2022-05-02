@@ -8,12 +8,13 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 #### Journal Publication
 <p>Since 2020:</p>
 <ol>
+  <li>C.Chen & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material (under review).</li>
   <li>Q. Jin & L.Jiang*, Using integrated composite slab section for rational simulation of multi-storey buildings in real fires. (pending to submission).</li>
   <li>Z. NAN, A. Khan, Liming Jiang*, S. Chen, A. Usmani. 2022. Application of Travelling Behavior Models for Thermal Responses in Large Compartment Fires.Fire Safety Journal (under review).</li>
-  <li>A. Khan,Z. NAN, Liming Jiang*, V.Gupta, S. Chen,M. Khan, J. Hidalgo, A. Usmani. 2022. Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios.Journal of Building Engieering (under review).</li>
-  <li>X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Engineering Structures.(under review).</li>
+  <li>A. Khan,Z. NAN, Liming Jiang*, V.Gupta, S. Chen,M. Khan, J. Hidalgo, A. Usmani. 2022. Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios.Journal of Building Engineering.</li>
+  <li>X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Journal of Construction Steel Research.(under review).</li>
   <li>Z. NAN, A. Khan, X. Zhang, Liming Jiang*, X.Huang*, A. Usmani.  2022. Fire Spread and Burning Dynamics of Non-uniform Wood Cribs for Evolved Design Fire Scenarios. Fire Safety Journal.(pending to submission).</li>
-  <li>A. Orabi, Liming Jiang*, X.Huang*, A. Usmani.  2021. A Review on the Fire Resilience and Tests of Two-Way Composite Floors . Fire Technology. (under review).</li>
+  <li>A. Orabi, Liming Jiang*, X.Huang*, A. Usmani.  2021. A Review on the Fire Resilience and Tests of Two-Way Composite Floors . Fire Technology.</li>
   <li>A. Orabi, Liming Jiang*, A. Usmani, J.Torero.  2022. The Collapse of World Trade Center 7: Revisited. Fire Technology.(invited by SIF)</li>
   <li>J. Qiu, Liming Jiang*, M. Anwar, A. Usmani, G-Q. Li.  2021. A computational approach for modelling composite slabs in fire within OpenSees framework. Engineering Structures.DOI: 10.1016/j.engstruct.2022.113909</li>
   <li>C.Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires. Fire Safety Journal (under review).</li>
