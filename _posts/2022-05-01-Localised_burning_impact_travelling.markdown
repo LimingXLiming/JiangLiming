@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios
+date:   2022-05-01 18:01:35 +0800
+image:  localisedfire.png
+tags:   Paper
+---
+## Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios
+This paper has been published on Journal of Bulding Engineering.
+
+Fire safety of modern buildings is crucial and the fire safety design of these buildings has been a challenging task. Large open-plan compartments are commonly designed in modern urbanisation and the fire behaviour in such compartments is different from the traditional knowledge built upon small compartment fire research. Various experimental studies have been performed to represent such fires to evaluate the structural fire resistance, which were accompanied by a series of travelling fire models to describe the non-uniform fire impact in large compartments. However, the localised fire models adopted in the latest travelling fire methodology were derived from localised fire tests of unconfined ceiling boundaries. The effects of smoke generation due to fire during various stages of the fire development are not included explicitly. This paper characterises the thermal impact on structural members from the localised fire tests and extends the simulation models and analysis approaches to localised fires in large compartments. Comparing the cases with soffits and without soffits, temperature differences of up to 150oC are observed and the convective coefficient adopted as 35 W/m2K is too high. The work recommends to modify the current localised fire models to consider realistic fire sizes and smoke layer with the recognition of semi-confined conditions in large compartment fire scenarios. By including these aspects, it is possible to establish more universal design fire models to overcome the current limitations and to address the fire impact in compartments of various sizes and ventilation conditions. 
