@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Collapse of World Trade Center 7: Revisited
+title:  The Collapse of World Trade Center 7 Revisited
 date:   2022-04-15 18:01:35 +0800
 image:  WTC7.png
 tags:   Paper
