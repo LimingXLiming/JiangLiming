@@ -6,7 +6,6 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
-<p>Since 2020:</p>
 <ol>
   <li>C.Chen & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material (under review).</li>
   <li>Q. Jin & L.Jiang*, Using integrated composite slab section for rational simulation of multi-storey buildings in real fires. (pending to submission).</li>
@@ -29,9 +28,6 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
   <li> Liming Jiang*, Y.Jiang, Z., Zhang, A., Usmani, 2021. Thermal analysis in OpenSees for fire and its smart application interface towards natural fire modelling. Fire Technology.</li>
   <li> M. Zhou, Liming. Jiang, S.W. Chen, R.P.R. Cardoso and A. Usmani, 2020. Residual Fire Resistance of Steel Frames Following Moderate Earthquake - A Case Study. Journal of Constructional Steel Research,164, 105754. </li>
   <li> X. Dai, S. Welch, O. Vassart, K. Cábová, Liming. Jiang, J. Maclean, G.C. Clifton, and A. Usmani, 2020. An Extended Travelling Fire Method (ETFM) Framework for Performance-Based Structural Design, Fire and Materials, 3, 1-21 </li>
-</ol>
-<p>Before 2020:</p>
-<ol>
   <li>M.A.Khan, Liming Jiang, K. A. Cashell and A. Usmani, 2019. Virtual hybrid simulation of beams with web openings in fire. Journal of Structural Fire Engineering, 11(1), 118-134.</li>
   <li>S.W. Chen, Liming Jiang*, L. Wu, Y. Wang, and A. Usmani, 2019. Damage investigation of cementitious fire resistive coatings under complex loading. Construction and Building Materials 204: 659-674.</li>
   <li>T.Yarlagadda, H.Hajiloo, Liming Jiang, M.Green and A.Usmani, 2018. Preliminary modelling of Plasco Tower Collapse. International Journal of High-Rise Buildings 7(4):397-408.</li>
