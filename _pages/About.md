@@ -37,6 +37,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 
 #### Research & Teaching Grants
 <p>As PI</p>
+*  Croucher Conference Sponsorship Grant, 100K HKD, 2022-2023, PI. 
 * RISUD PhD Studentship to Ms WANG Ganyu, 726.6K HKD, 2022-2025, PI
 * Large Equipment Fund: A radiant heat exposure system for demonstrating thermal performance and fire safety in the built environment, 737K HKD, 2021-2022, PI
 * State Key Lab of Disaster Reduction in Civil Engineering Open Fund: Distributed hybrid testing system for structural response to real fires, 500K CNY, 2021-2023, PI.
@@ -65,7 +66,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
 
 #### Academic Duties
-* Co-Chair of Organising Committee of International Conference of Structures in Fire (SIF2022).
+* Chair of Organising Committee of International Conference of Structures in Fire (SIF2022).
 * Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
 * Research leader of structural fire engineering, Research Center for Fire Safety Engineering, PolyU.
 * Guest editor of Special Issue on Fire Engineering of High-rise Buildings, International Journal of High-rise Buildings.
