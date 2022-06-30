@@ -8,7 +8,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 #### Journal Publication
 <ol>
    <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2022. IOPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction. (submitted to Engineering Structures)</li>
-  <li>C.Chen & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material (under review).</li>
+  <li>C.Cheng & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material (under review).</li>
   <li>Q. Jin & L.Jiang*, Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.</li>
   <li>Z. NAN, A. Khan, Liming Jiang*, S. Chen, A. Usmani. 2022. Application of Travelling Behavior Models for Thermal Responses in Large Compartment Fires.Fire Safety Journal (under review).</li>
   <li>A. Khan,Z. NAN, Liming Jiang*, V.Gupta, S. Chen,M. Khan, J. Hidalgo, A. Usmani. 2022. Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios.Journal of Building Engineering(IF=5.318).</li>
@@ -17,7 +17,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
   <li>A. Orabi, Liming Jiang*, X.Huang*, A. Usmani.  2022. A Review on the Fire Resilience and Tests of Two-Way Composite Floors. Fire Technology.</li>
   <li>A. Orabi, Liming Jiang*, A. Usmani, J.Torero.  2022. The Collapse of World Trade Center 7: Revisited. Fire Technology.(invited by SIF)https://doi.org/10.1007/s10694-022-01225-2</li>
   <li>J. Qiu, Liming Jiang*, M. Anwar, A. Usmani, G-Q. Li.  2021. A computational approach for modelling composite slabs in fire within OpenSees framework. Engineering Structures (IF=4.471).DOI: 10.1016/j.engstruct.2022.113909</li>
-  <li>C.Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires. Fire Safety Journal (under review).</li>
+  <li>C.Cheng, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires. Fire Safety Journal (under review).</li>
   <li>A. Orabi, A. Khan*, Liming Jiang, T. Yarlagadda, A. Usmani. 2021. Integrated nonlinear structural simulation of tall buildings in fire. Engineering Structures (IF=4.471).DOI:10.1016/j.engstruct.2021.113593</li>
   <li>T. Yarlagadda, Z. Zhang, Liming Jiang, P. Bhargava, A. Usmani. 2021. Solid isotropic material with thickness penalization-A 2.5D method for structural topology optimization. Computers & Structures (in press)</li>
   <li> X. Cai, C. Yang, Y. Yuan, Liming Jiang, 2021. Reinforcement Ratio's Effects on Seismic Performance of a Hypothetical Station with Full-scale Central Column Tests. Bulletin of Earthquake Engineering (IF=3.827).</li>
@@ -51,7 +51,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 #### Major Conference Publication
 
 <ul>
-  <li>Liming Jiang, C.Chen, A. Usmani, 2021. A Novel Timber-Steel Composite Section Using Char Layer as Insulation to Protect Steel, World Conference on Timber Engineering (WCTE2021), Santiago.</li>
+  <li>Liming Jiang, C.Cheng, A. Usmani, 2021. A Comceptual Timber-Steel Composite Section Using Char Layer as Insulation to Protect Steel, World Conference on Timber Engineering (WCTE2021), Santiago.</li>
   <li> Liming Jiang, M.A.Orbi, J. Qiu, A.Usmani, 2020. Modelling concrete slabs subjected to localised fire action with opensees, 10th International Conference on Structures in Fire (SIF 2020), Queensland. (selected for JSFE).</li>
    <li> M.A.Orbi, Liming Jiang, A.Usmani, J. Torero, 2020. The Collapse of World Trade Center 7: Revisited, 10th International Conference on Structures in Fire (SIF 2020), Queensland. (invited for extended publication in Fire Technology).</li>
     <li>H.Hajiloo,  Liming Jiang,  A. Usmani, M.Green , 2018. Collapse analysis of the Plasco Tower using OpenSees, 10th International Conference on Structures in Fire, Belfast (selected for JSFE). </li>
