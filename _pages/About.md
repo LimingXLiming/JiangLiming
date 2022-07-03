@@ -17,15 +17,16 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 
 
 #### Work Experience
-<p>In University</p>
+-In University
 * Assistant Professor, BSE, The Hong Kong Polytechnic University, from 2019.10  
 * Part-time Research Fellow, The Hong Kong Polytechnic University, 2018.02-2019.02 
 * Postdoctoral Research Fellow, The Hong Kong Polytechnic University, 2016.09-2017.12
 * Postdoctoral Research Fellow, Brunel University London, 2016.01-2016.08
 
-<p>In Industry</p>
+-In Industry
 * Project General Manager, [Country Garden Group ](https://www.bgy.com.cn/), 2019.05-2019.09 
-* ‘Global Future Leader’ Program, Senior Manager, Assistant Project General Manager, [Country Garden Group](https://www.bgy.com.cn/), 2017.12-2019.04 
+* Assistant Project General Manager, [Country Garden Group](https://www.bgy.com.cn/), 2018.05-2019.04 
+* ‘Global Future Leader’ Program, Senior Manager, [Country Garden Group](https://www.bgy.com.cn/), 2017.12-2019.05 
 
 
 #### Research Interests
@@ -81,5 +82,5 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 
 #### Awards
 * Top cited journal paper 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
-* Teaching Excellence Award, Department of Building Environment and Energy Engineering, 2021
-
+* Teaching Excellence Award, Department of Building Environment and Energy Engineering, 2021.
+* Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
