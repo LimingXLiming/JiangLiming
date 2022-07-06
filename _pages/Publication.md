@@ -13,6 +13,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
    <li> Zixin Zhang, Tejeswar Yarlagadda, Yao Zheng, Liming Jiang*, Asif Usmani, 2021. Isogeometric analysis based design of post-tensioned concrete beam towards construction-oriented topology optimization. Structural and Multidisciplinary Optimization (IF=4.542).</li>
    
 <b>[Building Fire Safety] </b> 
+  <li>T. Chu, Liming Jiang*, A. Usmani. 2022. Fire impact on vertical components subjected to a localised fire estimated using a line source model. Fire Technology (under review).</li>
   <li>Z. NAN, A. Khan, Liming Jiang*, S. Chen, A. Usmani. 2022. Application of Travelling Behavior Models for Thermal Responses in Large Compartment Fires.Fire Safety Journal (under review).</li>
   <li>A. Khan,Z. NAN, Liming Jiang*, V.Gupta, S. Chen,M. Khan, J. Hidalgo, A. Usmani. 2022. Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios.Journal of Building Engineering(IF=5.318).</li>
   <li>Z. NAN, A. Khan, X. Zhang, Liming Jiang*, X.Huang*, A. Usmani.  2022. Fire Spread and Burning Dynamics of Non-uniform Wood Cribs for Evolved Design Fire Scenarios. Fire Safety Journal.(under review).</li>
