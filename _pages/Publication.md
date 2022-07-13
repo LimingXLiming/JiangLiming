@@ -45,6 +45,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
   <li> J. Jiang, Liming Jiang, P. Kotsovinos, J. Zhang and A. Usmani, 2015. OpenSees Software Architecture for the Analysis of Structures in Fire. Journal of Computing in Civil Engineering, 29(1):1-13.</li>
   <li> S.W. Chen, Liming Jiang, A. Usmani, G.Q. Li and C. Jin, 2015. Damage mechanisms in cementitious coatings on steel members under axial loading. Construction & Building Materials , 90:18-35.</li>
   <li> S.W. Chen, Liming Jiang, A. Usmani and G.Q. Li, 2014. Damage mechanisms in cementitious coatings on steel members in bending. Proceedings of the ICE - Structures and Buildings, 168(5):351–369. </li>
+  <li> 廖志娟; 陈素文; 江黎明; 吴林森, 2012. 纯弯荷载下厚型钢结构防火涂层破损的试验研究和数值分析. 防灾减灾工程学报，32：197-204. </li>
 </ol>
 
 #### Book Chapter
@@ -52,26 +53,26 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 
   * Liming Jiang, Y. Jiang, X. Wu, 2021. Realistic fire resistance evaluation in the context of autonomous infrastructure, Handbook of Cognitive and Autonomous Systems for Fire Resilient Infrastructures, Springer (invited) [https://doi.org/10.1007/978-3-030-98685-8](https://doi.org/10.1007/978-3-030-98685-8)
 
+ * S.Chen, Liming Jiang, G.-Q.Li, 2011. Seismic, wind and exceptional loads Damage mechanism of thick fireproof coatings for steel members subjected to monotonic loading, Behaviour of Steel Structures in Seismic Areas, CRC press [https://doi.org/10.1201/b11396](https://doi.org/10.1201/b11396)
+
 
 
 #### Major Conference Publication
 
-<ul>
-  <li>Liming Jiang, C.Cheng, A. Usmani, 2021. A Comceptual Timber-Steel Composite Section Using Char Layer as Insulation to Protect Steel, World Conference on Timber Engineering (WCTE2021), Santiago.</li>
-  <li> Liming Jiang, M.A.Orbi, J. Qiu, A.Usmani, 2020. Modelling concrete slabs subjected to localised fire action with opensees, 10th International Conference on Structures in Fire (SIF 2020), Queensland. (selected for JSFE).</li>
-   <li> M.A.Orbi, Liming Jiang, A.Usmani, J. Torero, 2020. The Collapse of World Trade Center 7: Revisited, 10th International Conference on Structures in Fire (SIF 2020), Queensland. (invited for extended publication in Fire Technology).</li>
-    <li>H.Hajiloo,  Liming Jiang,  A. Usmani, M.Green , 2018. Collapse analysis of the Plasco Tower using OpenSees, 10th International Conference on Structures in Fire, Belfast (selected for JSFE). </li>
-	<li>Liming Jiang, M. Zhou, A. Usmani, 2017. Global behaviour of generic stainless steel composite frame structures in Fire. 2nd International Conference on Structural Safety under Fire & Blast (CONFAB 2017), London. </li>
-	<li> M.Khan, Liming Jiang, K.Cashell, A. Usmani, 2017. Analysis of composite beams exposed to fire using hybrid simulation approach. 2nd International Conference on Structural Safety under Fire & Blast(CONFAB 2017), London.</li>
-	<li> Liming Jiang, Mian Zhou, A. Usmani, 2017. Case studies of structural fire response simulation using OpenSees, 2nd International Fire Safety Symposium (IFireSS2017), Naples.</li>
-	<li> Liming Jiang, S.W. Chen, A. Usmani, 2016. Structural behaviour under localised fire action-modelled using an integrated computational tool, 9th International Conference on Structures in Fire( SIF2016), Princeton.</li>
-	<li> S.W. Chen, Y.J.Wang, Liming Jiang, A. Usmani , 2016. An experimental study of the damage modes of fire proof coatings under complex loads, 9th International Conference on Structures in Fire (SIF2016), Princeton.</li>
-	<li>X.Dai, Liming Jiang, J.Maclean, S.Welch, A. Usmani , 2016. Implementation of a New Design Travelling Fire Model for Global Structural Analysis, 9th International Conference on Structures in Fire (SIF2016), Princeton.  </li>
-	<li> X. Dai, Liming Jiang, et.al, 2016. A conceptual framework for a design travelling fire for large compartments with fire resistant islands, InterFLAM2016, London. </li>
-	<li> Liming Jiang, D. Xu, P. Kamath, A. Usmani. 2015. OpenSees-based integrated tool for modelling structures in fire. 1st International Conference on Structural Safety under Fire & Blast (CONFAB 2015). Glasgow. </li>
-	<li> Liming Jiang, Y.Q. Jiang, J. Jiang, A. Usmani and S.W. Chen, 2014. An opensees-based integrated tool for modelling structures in realistic design fires, 8th International Conference on Structures in Fire (SIF2014), Shanghai. </li>
+* Liming Jiang, C.Cheng, A. Usmani, 2021. A Comceptual Timber-Steel Composite Section Using Char Layer as Insulation to Protect Steel, World Conference on Timber Engineering (WCTE2021), Santiago.
+* Liming Jiang, M.A.Orbi, J. Qiu, A.Usmani, 2020. Modelling concrete slabs subjected to localised fire action with opensees, 10th International Conference on Structures in Fire (SIF 2020), Queensland. (selected for JSFE).
+*  M.A.Orbi, Liming Jiang, A.Usmani, J. Torero, 2020. The Collapse of World Trade Center 7: Revisited, 10th International Conference on Structures in Fire (SIF 2020), Queensland. (invited for extended publication in Fire Technology).
+* H.Hajiloo,  Liming Jiang,  A. Usmani, M.Green , 2018. Collapse analysis of the Plasco Tower using OpenSees, 10th International Conference on Structures in Fire, Belfast (selected for JSFE). 
+* Liming Jiang, M. Zhou, A. Usmani, 2017. Global behaviour of generic stainless steel composite frame structures in Fire. 2nd International Conference on Structural Safety under Fire & Blast (CONFAB 2017), London. 
+* M.Khan, Liming Jiang, K.Cashell, A. Usmani, 2017. Analysis of composite beams exposed to fire using hybrid simulation approach. 2nd International Conference on Structural Safety under Fire & Blast(CONFAB 2017), London.
+* Liming Jiang, Mian Zhou, A. Usmani, 2017. Case studies of structural fire response simulation using OpenSees, 2nd International Fire Safety Symposium (IFireSS2017), Naples.
+* Liming Jiang, S.W. Chen, A. Usmani, 2016. Structural behaviour under localised fire action-modelled using an integrated computational tool, 9th International Conference on Structures in Fire( SIF2016), Princeton.
+* S.W. Chen, Y.J.Wang, Liming Jiang, A. Usmani , 2016. An experimental study of the damage modes of fire proof coatings under complex loads, 9th International Conference on Structures in Fire (SIF2016), Princeton.
+* X.Dai, Liming Jiang, J.Maclean, S.Welch, A. Usmani , 2016. Implementation of a New Design Travelling Fire Model for Global Structural Analysis, 9th International Conference on Structures in Fire (SIF2016), Princeton.  
+* X. Dai, Liming Jiang, et.al, 2016. A conceptual framework for a design travelling fire for large compartments with fire resistant islands, InterFLAM2016, London. <
+* Liming Jiang, D. Xu, P. Kamath, A. Usmani. 2015. OpenSees-based integrated tool for modelling structures in fire. 1st International Conference on Structural Safety under Fire & Blast (CONFAB 2015). Glasgow. 
+* Liming Jiang, Y.Q. Jiang, J. Jiang, A. Usmani and S.W. Chen, 2014. An opensees-based integrated tool for modelling structures in realistic design fires, 8th International Conference on Structures in Fire (SIF2014), Shanghai. 
 
-</ul>
 
 #### Public Talks
 * Evolution of computational simulation for fire safety assessment of modern buildings towards hybrid approaches, HKIE Seminar, 2 Dec 2021.
