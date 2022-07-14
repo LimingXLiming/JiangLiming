@@ -32,7 +32,7 @@ Timber is intended to become a major constructional material in future urbanizat
 ![]({{site.baseurl}}/images/timber.jpg)
 
 ## Next-generation  structural design: Construciton-oriented and Optimizaiton-based  design
-![]({{site.baseurl}}/images/IGAsim.jpg)
+![]({{site.baseurl}}/images/optimization.png)
 Topology optimization as a computational approach is used to find an optimal structure with specific objectives such as an ultimately lightweight design. The optimization is normally performed under a series of constraint functions to ensure expected structural performance for safety and resilience. To promote the use of topology optimization in structural engineering, it is crucially important to identify and apply suitable constraints for realistic construction. A conceptual attempt aiming for a construction-oriented topology optimization framework has been developed.An isogeometric analysis module using NURBS curves for geometric description and discretization is employed in stress analyses, which incorporates the density-based SIMP optimization approach to generate the optimized topology. We have recently develop the IGA elements and TO applciation within OpenSees and we will continue to use this for construction-oriented optimization of structural design.
 
 
