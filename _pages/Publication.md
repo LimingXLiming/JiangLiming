@@ -29,7 +29,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 
 <b>[Computational Modelling & Hybrid Testing]</b> 
   <li>C.Cheng & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material (under review).</li>
-  <li>Q. Jin & L.Jiang*, Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.</li>
+  <li>Q. Jin & L.Jiang*, Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (submitted)</li>
   <li>C.Cheng, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires. Fire Safety Journal (under review).</li>
   <li>X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Journal of Construction Steel Research.(under review).</li>
   <li>J. Qiu, Liming Jiang*, M. Anwar, A. Usmani, G-Q. Li.  2021. A computational approach for modelling composite slabs in fire within OpenSees framework. Engineering Structures (IF=4.471).DOI: 10.1016/j.engstruct.2022.113909</li>
