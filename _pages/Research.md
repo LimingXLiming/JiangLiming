@@ -27,8 +27,9 @@ Recently, we are also working on hybrid fire testing with CFD simulation synchro
 This radiant panle testing system is supported by the Large Equipment Fund. The system comprises a radiant panel complex, gas suppliers and controller items. The radiant panel covering a large range of heat flux (up to 200kw/m2 equivalent to large fires) is externally applied to the testing specimens, which enables direct observation of students on the thermal performance and fire response of building materials and devices. Particularly, each unit can be individually activated (e.g., only Unit 1, or Units 1&2, or all units) to offer high flexibility allowing various scales of testing. The system is supported by the Large Equipment Fund of PolyU.
 
 ## Fire-safe timber buildings
-![]({{site.baseurl}}/images/timber.jpg)
+
 Timber is intended to become a major constructional material in future urbanization to reduce carbon emissions as a response to the climate change emergency. The fire safety of timber structures has been a long-standing challenge as timber members can contribute fuel to a fire. Traditional design approaches for timber structures have focused on estimating the char propagation in Standard fires, and the Eurocode models for timber have been devoted to this purpose. However, when considering the impact of realistic fire, the effect of non-uniform and non-standard burning in compartments indicates the key necessity of developing a suitable engineering model to estimate the realistic thermal responses of timber sections. 
+![]({{site.baseurl}}/images/timber.jpg)
 
 ## Next-generation  structural design: Construciton-oriented and Optimizaiton-based  design
 ![]({{site.baseurl}}/images/IGAsim.jpg)
