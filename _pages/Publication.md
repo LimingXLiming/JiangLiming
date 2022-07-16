@@ -9,7 +9,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 <ol>
 <b>[Oprimization based structural design]</b>
    <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2022. IOPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction, Engineering Structures (under review)</li>
-  <li>T. Yarlagadda, Z. Zhang, Liming Jiang, P. Bhargava, A. Usmani. 2021. Solid isotropic material with thickness penalization-A 2.5D method for structural topology optimization. Computers & Structures (IF=5.372, JCR2022) (https://doi.org/10.1016/j.compstruc.2022.106857)</li>
+  <li>T. Yarlagadda, Z. Zhang, Liming Jiang, P. Bhargava, A. Usmani. 2022. Solid isotropic material with thickness penalization-A 2.5D method for structural topology optimization. Computers & Structures (IF=5.372, JCR2022) (https://doi.org/10.1016/j.compstruc.2022.106857)</li>
    <li> Zixin Zhang, Tejeswar Yarlagadda, Yao Zheng, Liming Jiang*, Asif Usmani, 2021. Isogeometric analysis based design of post-tensioned concrete beam towards construction-oriented topology optimization. Structural and Multidisciplinary Optimization (IF=4.542, JCR2021).</li>
    
 <b>[Building Fire Safety] </b> 
@@ -29,7 +29,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 
 <b>[Computational Modelling & Advanced Testing]</b> 
   <li>C.Cheng & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material (under review).</li>
-  <li>Q. Jin & L.Jiang*, Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (submitted)</li>
+  <li>Q. Jin & L.Jiang*, 2022. Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (submitted)</li>
   <li>C.Cheng, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires. Fire Safety Journal (under review).</li>
   <li>X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Journal of Construction Steel Research.(under review).</li>
   <li>J. Qiu, Liming Jiang*, M. Anwar, A. Usmani, G-Q. Li.  2022. A computational approach for modelling composite slabs in fire within OpenSees framework. Engineering Structures, 255, 113909. (IF=5.582, JCR2022).DOI: 10.1016/j.engstruct.2022.113909</li>
@@ -51,14 +51,14 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 #### Book Chapters
 
 
-  * Liming Jiang, Y. Jiang, X. Wu, 2021. Realistic fire resistance evaluation in the context of autonomous infrastructure, Handbook of Cognitive and Autonomous Systems for Fire Resilient Infrastructures, Springer (invited) [https://doi.org/10.1007/978-3-030-98685-8](https://doi.org/10.1007/978-3-030-98685-8)
+  * Liming Jiang, Y. Jiang, X. Wu, 2022. Realistic fire resistance evaluation in the context of autonomous infrastructure, Handbook of Cognitive and Autonomous Systems for Fire Resilient Infrastructures, Springer (invited) [https://doi.org/10.1007/978-3-030-98685-8](https://doi.org/10.1007/978-3-030-98685-8)
 
  * S.Chen, Liming Jiang, G.-Q.Li, 2011. Seismic, wind and exceptional loads Damage mechanism of thick fireproof coatings for steel members subjected to monotonic loading, Behaviour of Steel Structures in Seismic Areas, CRC press [https://doi.org/10.1201/b11396](https://doi.org/10.1201/b11396)
 
 
 
 #### Major Conference Publication
-* J. Qiu, L. Jiang, M.A.Orabi, A. Usmani, Characterisation of damage patterns of composite floor system subjected to realistic fire scenarios, 12th Asia-Oceania Symposium on Fire Science and Technology (AOSFST 2021)
+* J. Qiu, L. Jiang, M.A.Orabi, A. Usmani,2021, Characterisation of damage patterns of composite floor system subjected to realistic fire scenarios, 12th Asia-Oceania Symposium on Fire Science and Technology (AOSFST 2021)
 * Z. Nan, A.Khan, L.Jiang, S. Chen, A. Usmani,2021, Thermal response of steel beam subjected to idealised travelling fires, 12th Asia-Oceania Symposium on Fire Science and Technology (AOSFST 2021)
 * A.Khan, Z. Nan, L.Jiang, M.Zhang, S. Chen, M. Khan, A. Usmani,2021, Heating impact of localised burning in large compartment fires, 12th Asia-Oceania Symposium on Fire Science and Technology (AOSFST 2021)
 * Liming Jiang, C.Cheng, A. Usmani, 2021. A Comceptual Timber-Steel Composite Section Using Char Layer as Insulation to Protect Steel, World Conference on Timber Engineering (WCTE2021), Santiago.
