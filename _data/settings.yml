@@ -12,7 +12,7 @@ author:
   image: 01.jpg
   say-hello: <strong>Dr Liming JIANG</strong>
   bio: Dr Liming Jiang is Assistant Professor in the Department of Building Environment and Energy Building. His research focuses on fire safety of modern buildings,computational software development, and advanced testing.
-  chnbio: 江黎明博士, 建筑环境与能源工程学系助理教授. 其主要研究建筑火灾安全相关课题, 并致力于开发创新的计算模拟软件及解决方案.
+  chnbio: 江黎明博士, 建筑环境与能源工程学系助理教授. 其主要研究建筑火灾安全相关课题, 并致力于开发创新的结构计算模拟软件及试验解决方案.
 
 #-------------------------------
 # Contact links
@@ -31,7 +31,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: lmjiangphotoshop # Add instagram username
 
 
 #-------------------------------
