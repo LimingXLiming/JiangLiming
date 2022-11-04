@@ -2,7 +2,7 @@
 layout: post
 title:  OpenSees Simulation for timber structures
 date:   2022-10-29 18:01:35 +0800
-image:  OPStimber.jpg
+image:  OPStimber.png
 tags:   Paper
 ---
 ## OpenSees development for modelling timber structural members subjected to realistic fire impact

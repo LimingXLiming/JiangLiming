@@ -6,13 +6,17 @@ image: team.jpg
 ---
 
 #### Research Team
-* Post-doc researcher: Dr CAI Xuesong
-* Co-advised Post-doc researchers:Dr Anwar Orbi, Dr Aatif Khan
 * PhD students: Ms QIU Jin, Ms NAN Zhuojun, Mr CHEN Cheng, Mr CHU Tianwei，Ms WANG Ganyu (2022)[RISUD RPg Studentship Funded]
 * Co-supervised/co-advised PhD students: Mr Zhang Zixin, Mr Venkata Ramakanth 
-* Jointly supervised MSc student(Tongji): Mr WANG Ziyi
-* MEng/MSc Students: [2020-21]Ms ZHANG Ming; [2021-22] Mr LUO Chongyu, Mr Morgan Lau, Ms Vlauhs LAU.
+* MEng/MSc Students: [2022-2023]Ms Wang Jinjin, Ms Huang Zhaoying, Ms Liu Wenyu
 * Incoming Exchange PhD Researcher: Mr WANG Zhiruoyu (University of Queensland)
+* Visiting Research Students: Mr LIANG Siyu (Tongji University), Mr Wang Ziqi (Chong Qing University)
+
+#### Previsou Team Members
+* Post-doc researcher: Dr CAI Xuesong (now Associate Professor in Harbin Engineering University)
+* Co-advised Post-doc researchers:Dr Anwar Orbi, Dr Aatif Khan (Now Lecturer in University of Canterbury)
+* Jointly supervised MSc student(Tongji): Mr WANG Ziyi (Now PhD student in Nanyang Technological University, Singapore
+* MEng/MSc Students: [2020-21]Ms ZHANG Ming; [2021-22] Mr LUO Chongyu, Mr Morgan Lau;
 * Undergraduate Research Students (Supported by [URIS](https://www.polyu.edu.hk/ous/uris/about-uris/)): Ms Doremi Lam, Ms CHAN Wai Shan, Mr Wan Oscar Man
 
 #### Opportunities

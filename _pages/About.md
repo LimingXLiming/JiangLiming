@@ -82,6 +82,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
 #### Awards
+* Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering, Oct 2022.
 * Top cited journal paper 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
 * Teaching Excellence Award, Department of Building Environment and Energy Engineering, 2021.
 * Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
