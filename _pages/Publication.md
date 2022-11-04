@@ -8,7 +8,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 #### Journal Publication
 <ol>
 <b>[Oprimization based structural design]</b>
-   <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2022. IOPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction, Engineering Structures (under review)</li>
+   <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2022. IOPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction, Advance in Engineering Software (under review)</li>
   <li>T. Yarlagadda, Z. Zhang, Liming Jiang, P. Bhargava, A. Usmani. 2022. Solid isotropic material with thickness penalization-A 2.5D method for structural topology optimization. Computers & Structures (IF=5.372, JCR2022) (https://doi.org/10.1016/j.compstruc.2022.106857)</li>
    <li> Zixin Zhang, Tejeswar Yarlagadda, Yao Zheng, Liming Jiang*, Asif Usmani, 2021. Isogeometric analysis based design of post-tensioned concrete beam towards construction-oriented topology optimization. Structural and Multidisciplinary Optimization (IF=4.542, JCR2021).</li>
    
@@ -28,10 +28,10 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
   <li> Liming Jiang*, S.W. Chen and A. Usmani, 2018. Feasibility of dimensionally reduced heat transfer analysis for structural members subjected to localised fire. Advances in Structural Engineering, 21(11):1708-1722.</li>
 
 <b>[Computational Modelling & Advanced Testing]</b> 
-  <li>C.Cheng & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material (under review).</li>
-  <li>Q. Jin & L.Jiang*, 2022. Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (submitted)</li>
-  <li>C.Cheng, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires. Fire Safety Journal (under review).</li>
-  <li>X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Journal of Construction Steel Research.(under review).</li>
+  <li>C.Cheng & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material.</li>
+  <li>Q. Jin & L.Jiang*, 2022. Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (under review)</li>
+  <li>C.Cheng, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires.  (under review).</li>
+  <li>X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Journal of Construction Steel Research.https://doi.org/10.1016/j.jcsr.2022.107511.</li>
   <li>J. Qiu, Liming Jiang*, M. Anwar, A. Usmani, G-Q. Li.  2022. A computational approach for modelling composite slabs in fire within OpenSees framework. Engineering Structures, 255, 113909. (IF=5.582, JCR2022).DOI: 10.1016/j.engstruct.2022.113909</li>
   <li> X. Cai, C. Yang, Y. Yuan, Liming Jiang, 2021. Reinforcement Ratio's Effects on Seismic Performance of a Hypothetical Station with Full-scale Central Column Tests. Bulletin of Earthquake Engineering (IF=3.827).</li>
   <li>A. Orabi, A. Khan*, Liming Jiang, T. Yarlagadda, A. Usmani. 2021. Integrated nonlinear structural simulation of tall buildings in fire. Engineering Structures (IF=4.471, JCR2021).DOI:10.1016/j.engstruct.2021.113593</li>
