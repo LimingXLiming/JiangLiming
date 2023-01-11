@@ -14,7 +14,8 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
    
 <b>[Building Fire Safety] </b> 
   <li>T. Chu, Liming Jiang*, A. Usmani. 2022. Fire impact on vertical components subjected to a localised fire estimated using a line source model. Fire Technology (under review).</li>
-  <li>Z. NAN, A. Khan, Liming Jiang*, S. Chen, A. Usmani. 2022. Application of Travelling Behavior Models for Thermal Responses in Large Compartment Fires.Fire Safety Journal (under review).</li>
+  <li>X.Zhang, T. Chu, Liming Jiang*, G. Zhu*, X.Liu, X. Xu, Z. Wu, 2022. On the orientation effect on the flame spread over discrete fuel using a mass-transfer number. Fire safety Journal (https://doi.org/10.1016/j.firesaf.2022.103730).</li>
+  <li>Z. NAN, A. Khan, Liming Jiang*, S. Chen, A. Usmani. 2022. Application of Travelling Behavior Models for Thermal Responses in Large Compartment Fires.Fire Safety Journal, 134. (https://doi.org/10.1016/j.firesaf.2022.103702)</li>
   <li>A. Khan,Z. NAN, Liming Jiang*, V.Gupta, S. Chen,M. Khan, J. Hidalgo, A. Usmani. 2022. Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios.Journal of Building Engineering(IF=7.144, JCR2022).</li>
   <li>Z. NAN, A. Khan, X. Zhang, Liming Jiang*, X.Huang*, A. Usmani.  2022. Fire Spread and Burning Dynamics of Non-uniform Wood Cribs for Evolved Design Fire Scenarios. Fire Safety Journal.(under review).</li>
   <li>A. Orabi, Liming Jiang*, X.Huang*, A. Usmani.  2022. A Review on the Fire Resilience and Tests of Two-Way Composite Floors. Fire Technology. (https://doi.org/10.1007/s10694-022-01277-4)</li>
