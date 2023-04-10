@@ -8,7 +8,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 #### Journal Publication
 <ol>
 <b>[Oprimization based structural design]</b>
-   <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. A novel multi-pattern control for automated structure design using topology optimization to balance form and performance, Automation in construction(pending to submission)</li> 
+   <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. A novel multi-pattern control for automated structure design using topology optimization to balance form and performance, Automation in construction(under review)</li> 
    <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2022. OPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction, Computer-aided design(https://doi.org/10.1016/j.cad.2023.103517)</li>
   <li>T. Yarlagadda, Z. Zhang, Liming Jiang, P. Bhargava, A. Usmani. 2022. Solid isotropic material with thickness penalization-A 2.5D method for structural topology optimization. Computers & Structures (IF=5.372, JCR2022) (https://doi.org/10.1016/j.compstruc.2022.106857)</li>
    <li> Zixin Zhang, Tejeswar Yarlagadda, Yao Zheng, Liming Jiang*, Asif Usmani, 2021. Isogeometric analysis based design of post-tensioned concrete beam towards construction-oriented topology optimization. Structural and Multidisciplinary Optimization (IF=4.542, JCR2021).</li>
@@ -32,6 +32,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 
 <b>[Computational Modelling & Advanced Testing]</b> 
   <li>J. Qiu & L.Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Thin-walled Structures (pending to submission).</li>
+  <li>J. Qiu, L.Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Fire Technology (pending to submission).</li>
   <li>C.Cheng & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material.</li>
   <li>J.Qiu & L.Jiang*, 2022. Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (under review)</li>
   <li>C.Cheng, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2021. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires.  (under review).</li>
