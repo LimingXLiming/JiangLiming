@@ -23,7 +23,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
   <li>A. Orabi, Liming Jiang*, X.Huang*, A. Usmani.  2022. A Review on the Fire Resilience and Tests of Two-Way Composite Floors. Fire Technology. (https://doi.org/10.1007/s10694-022-01277-4)</li>
   <li>A. Orabi, Liming Jiang*, A. Usmani, J.Torero.  2022. The Collapse of World Trade Center 7: Revisited. Fire Technology.(invited by SIF)https://doi.org/10.1007/s10694-022-01225-2</li>
   <li>J. Qiu, Liming Jiang*, A. Usmani, 2021. Post-fire Performance and Repair of Reinforced Concrete Structural Members: A Review. International Journal of High-rise Buildings.DOI:10.21022/IJHRB.2021.10.4.323 </li>
-  <li> M. Zhou, Liming. Jiang, S.W. Chen, R.P.R. Cardoso and A. Usmani, 2020. Residual Fire Resistance of Steel Frames Following Moderate Earthquake - A Case Study. Journal of Constructional Steel Research (IF=3.646),164, 105754. </li>
+  <li> M. Zhou, Liming. Jiang, S.W. Chen, R.P.R. Cardoso and A. Usmani, 2020. Remaining Fire Resistance of Steel Frames Following a moderate Earthquake - A Case Study. Journal of Constructional Steel Research (IF=3.646),164, 105754. </li>
   <li> X. Dai, S. Welch, O. Vassart, K. Cábová, Liming. Jiang, J. Maclean, G.C. Clifton, and A. Usmani, 2020. An Extended Travelling Fire Method (ETFM) Framework for Performance-Based Structural Design, Fire and Materials, 3, 1-21 </li>
   <li>M.A.Khan, Liming Jiang, K. A. Cashell and A. Usmani, 2019. Virtual hybrid simulation of beams with web openings in fire. Journal of Structural Fire Engineering, 11(1), 118-134.</li>
   <li>T.Yarlagadda, H.Hajiloo, Liming Jiang, M.Green and A.Usmani, 2018. Preliminary modelling of Plasco Tower Collapse. International Journal of High-Rise Buildings 7(4):397-408.</li>
