@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OpenSees for fire and TO
+title: OpenSees
 permalink: /OpenSees/
 image: WTC7.png
 ---
