@@ -38,9 +38,9 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 
 #### Research & Teaching Grants
 <p>As PI</p>
-* FCE Young Collaborative Research Fund, 0.5M, 2023-2025, PI.
+* FCE Young Collaborative Research Fund, Adding 。...... to 3D printing construction- An innovative solution to resolve performance bottlenecks of future-oriented construction regarding printability, load resistance, and fire safety, 0.5M, 2023-2025, PI.
 * BEEE Departmental Research Fund, 1M, 2023-2026, PI.
-* Croucher Conference Sponsorship Grant, 100K HKD, 2022-2023, PI. 
+* Croucher Conference Sponsorship Grant, 100K HKD+ 50K HKD matching fund, 2022-2023, PI. 
 * Large Equipment Fund: A radiant heat exposure system for demonstrating thermal performance and fire safety in the built environment, 737K HKD, 2021-2022, PI
 * State Key Lab of Disaster Reduction in Civil Engineering Open Fund: Distributed hybrid testing system for structural response to real fires, 500K CNY, 2021-2023, PI.
 *  Post-doc Matching Fund: Hybrid Simulation for Structures in Fire, 283K HKD, 2021-2022, PI.
@@ -78,7 +78,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * Scientific Committee Member of CONFAB2017, 2019; Session Chair of CONFAB2017.
 * Member of Society of Fire Protection Engineers (SFPE).
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
-* Member of RISUD, Division of Urban Infrastructure, PolyU.
+* Member of RIAM, RISUD in PolyU.
 * Journal Reviewer for "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, “Journal of Structural Fire Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
