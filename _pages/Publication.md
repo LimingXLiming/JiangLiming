@@ -15,6 +15,8 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
    
 <b>[Building Fire Safety] </b> 
   <li>T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Enabling glass breakage modelling in CFD simulation of compartment fires. Journal of Building Engineering(pending to submission).</li>
+  <li>T. Chu, Liming Jiang*, A. Usmani. 2023. Introducing an active opening strategy to mitigate large open-plan compartment fire 
+development. Fire Safety Journal(IAFSS submission).</li>
   <li>T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2022. Fire impact on vertical components subjected to a localised fire estimated using a line source model. Fire Technology.</li>
   <li>X.Zhang, T. Chu, Liming Jiang*, G. Zhu*, X.Liu, X. Xu, Z. Wu, 2022. On the orientation effect on the flame spread over discrete fuel using a mass-transfer number. Fire safety Journal (https://doi.org/10.1016/j.firesaf.2022.103730).</li>
   <li>Z. NAN, A. Khan, Liming Jiang*, S. Chen, A. Usmani. 2022. Application of Travelling Behavior Models for Thermal Responses in Large Compartment Fires.Fire Safety Journal, 134. (https://doi.org/10.1016/j.firesaf.2022.103702)</li>
@@ -63,6 +65,11 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 
 
 #### Major Conference Publication
+* J. Wang, C. CHEN, T. CHU, Liming Jiang, V. Nimje, T. Yarlagadda, P. Wang, A. Usmani, 2023, Experimental study and opensees modelling for thermal response of 3d printed concrete exposed to fires, 4th International Conference on 3D Construction Printing (4th 3DcP), Singapore.
+* J. Qiu, Liming Jiang, 2022, Towards application of AI-FE hybrid analyses for simulating structures in fire, 12th International Conference on Structures in Fire (SiF2022)
+* J. Qiu, X. Cai, Liming Jiang, A. Usmani, 2022, Reconstruct the load redistribution paths in multi-floor fire scenarios using 3d structural models, 12th International Conference on Structures in Fire (SiF2022)
+* T. Chu; Liming Jiang; A. Usmani, 2022, Estimation of thermal impact on vertical components due to localised burning in large compartment fires, 12th International Conference on Structures in Fire (SiF2022)
+* Z. Nan, M.A. Orabi, X. Zhang; A. Khan; X. Huang; Liming Jiang; Y. Jiang; A. Usmani, 2022, Rapid forecasting of the structural failure of a full-scale aluminium alloy reticulated shell structure in fire, 12th International Conference on Structures in Fire (SiF2022)
 * J. Qiu, L. Jiang, M.A.Orabi, A. Usmani,2021, Characterisation of damage patterns of composite floor system subjected to realistic fire scenarios, 12th Asia-Oceania Symposium on Fire Science and Technology (AOSFST 2021)
 * Z. Nan, A.Khan, L.Jiang, S. Chen, A. Usmani,2021, Thermal response of steel beam subjected to idealised travelling fires, 12th Asia-Oceania Symposium on Fire Science and Technology (AOSFST 2021)
 * A.Khan, Z. Nan, L.Jiang, M.Zhang, S. Chen, M. Khan, A. Usmani,2021, Heating impact of localised burning in large compartment fires, 12th Asia-Oceania Symposium on Fire Science and Technology (AOSFST 2021)
