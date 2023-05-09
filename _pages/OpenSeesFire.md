@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SIF2022
-permalink: /sif/
+title: OpenSees
+permalink: /OpenSees/
 image: ops.jpg
 ---
 
