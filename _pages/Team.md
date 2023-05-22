@@ -6,8 +6,14 @@ image: team.jpg
 ---
 
 #### Research Team
-* PhD students: Ms QIU Jin, Ms NAN Zhuojun, Mr CHEN Cheng, Mr CHU Tianwei，Ms WANG Ganyu (2022)[RISUD RPg Studentship Funded]
-* Co-supervised/co-advised PhD students: Mr Zhang Zixin, Mr Venkata Ramakanth 
+* Supervised PhD Projects: 
+Ms QIU Jin, 
+Ms NAN Zhuojun, 
+Mr CHEN Cheng, 
+Mr CHU Tianwei，
+Ms WANG Ganyu[RISUD RPg Studentship Funded]
+Mr Zhang Zixin,
+* Co-supervised/co-advised PhD students:  Mr Venkata Ramakanth 
 * MEng/MSc Students: [2022-2023]Ms Wang Jinjin, Ms Huang Zhaoying, Ms Liu Wenyu
 * Incoming Exchange PhD Researcher: Mr WANG Zhiruoyu (University of Queensland)
 * Visiting Research Students: Mr LIANG Siyu (Tongji University), Mr Wang Ziqi (Chong Qing University)
@@ -17,7 +23,7 @@ image: team.jpg
 * Co-advised Post-doc researchers:Dr Anwar Orbi, Dr Aatif Khan (Now Lecturer in University of Canterbury)
 * Jointly supervised MSc student(Tongji): Mr WANG Ziyi (Now PhD student in Nanyang Technological University, Singapore
 * MEng/MSc Students: [2020-21]Ms ZHANG Ming; [2021-22] Mr LUO Chongyu, Mr Morgan Lau;
-* Undergraduate Research Students (Supported by [URIS](https://www.polyu.edu.hk/ous/uris/about-uris/)): Ms Doremi Lam, Ms CHAN Wai Shan, Mr Wan Oscar Man
+* Undergraduate Research Students (Supported by [URIS](https://www.polyu.edu.hk/ous/uris/about-uris/)): Ms Ying Tun Lam (FSICA 2022 Award winner), Ms CHAN Wai Shan, Mr Wan Oscar Man
 
 #### Opportunities
 * [Hong Kong PhD Fellowship](https://www.polyu.edu.hk/gs/hkpfs/what_is_the_fellowship.html), application entry: [PolyU HKPF Application](https://www.polyu.edu.hk/gs/hkpfs/how_to_apply.html)
