@@ -36,28 +36,6 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * Computational modelling for buildings in fire
 * OpenSees based software development
 
-#### Research & Teaching Grants
-<p>As PI</p>
-* FCE Young Collaborative Research Fund, Adding 。...... to 3D printing construction- An innovative solution to resolve performance bottlenecks of future-oriented construction regarding printability, load resistance, and fire safety, 0.5M, 2023-2025, PI.
-* BEEE Departmental Research Fund, 1M, 2023-2026, PI.
-* Croucher Conference Sponsorship Grant, 100K HKD+ 50K HKD matching fund, 2022-2023, PI. 
-* Large Equipment Fund: A radiant heat exposure system for demonstrating thermal performance and fire safety in the built environment, 737K HKD, 2021-2022, PI
-* State Key Lab of Disaster Reduction in Civil Engineering Open Fund: Distributed hybrid testing system for structural response to real fires, 500K CNY, 2021-2023, PI.
-*  Post-doc Matching Fund: Hybrid Simulation for Structures in Fire, 283K HKD, 2021-2022, PI.
-*  SHUA Research Activity Fund: Forums for urban construction and resilience towards utilizing next generation of multi-disciplinary technologies, 40K HKD, 2021, PI.
-*   University Start-up Fund: Computational modelling on modern buildings subjected to fire, 600K HKD, 2020-2023, PI.
-*   Undergraduate Research and Innovation Scheme (URIS): Study of timber buildings in fire, 30K HKD, 2021-2022, PI. 
-*   Undergraduate Research and Innovation Scheme (URIS): Study of combustion behaviour of constructional timber in buildings, 30K HKD, 2021-2022, PI.
-*   Undergraduate Research and Innovation Scheme (URIS): Study of fire impact on glass panels, 30K HKD, 2021-2022, PI. 
-  
-<p>As CO-I</p>
-*  RIAM Fund: Digital fabrication of structural components optimised for form and function, 2022-2024, Co-I
-*  PolyU MOOC Fund: Introduction for Fire Safety Engineering, 400K HKD, 2020-2023, Co-I.
-*  Large Equipment Fund: Analytical platform for material flammability and fire emissions for fire and safety engineering education, 987K HKD, 2021-2022, Co-I.
-
-<p>As Participant</p>
-*  Theme-based Scheme: SureFire: Smart Urban Resilience and Firefighting, 33 million HKD, 2020-2025.
-*  MOST, 十三五重点研发计划子课题，城市地面基础设施群运行保障关键技术研究与应用示范-城市地面关键基础设施运行风险辨识与评估技术， 4 million CNY.
 
 #### Teaching Subjects
 * BSE3321:Fire Services, Undergraduate Subject
