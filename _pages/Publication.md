@@ -7,34 +7,25 @@ image: pub.jpg
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
 <ol>
-<b>[Oprimization based structural design]</b>
-   <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. A novel multi-pattern control for automated structure design using topology optimization to balance form and performance, Engineering Structures(under review)</li> 
-   <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2022. OPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction, Computer-aided design(https://doi.org/10.1016/j.cad.2023.103517)</li>
+  <li>J. Qiu & L.Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).</li>
+  <li>J. Qiu, L.Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (under review).</li>
+  <li>J. Qiu, L.Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires (pending to submission).</li>
+  <li>T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating glass breakage models into the CFD simulation of compartment fires . Journal of Building Engineering(pending to submission).</li>
+  <li>T. Chu, Liming Jiang*, A. Usmani. 2023. Introducing an active opening strategy to mitigate large open-plan compartment fire 
+development. Fire Safety Journal(under review).</li>  
+  <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. A novel multi-pattern control for automated structure design using topology optimization to balance form and performance, Engineering Structures(under review)</li> 
+  <li>T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Fire impact on vertical components subjected to a localised fire estimated using a line source model. Fire Technology (https://doi.org/10.1007/s10694-023-01429-0).</li>
+  <li>Z. NAN, A. Khan, X. Zhang, Liming Jiang*, X.Huang*, A. Usmani.  2023. Fire Spread and Burning Dynamics of Non-uniform Wood Cribs for Evolved Design Fire Scenarios. Fire Safety Journal.</li>
+   <li> Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. OPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction, Computer-aided design(https://doi.org/10.1016/j.cad.2023.103517)</li>
   <li>T. Yarlagadda, Z. Zhang, Liming Jiang, P. Bhargava, A. Usmani. 2022. Solid isotropic material with thickness penalization-A 2.5D method for structural topology optimization. Computers & Structures (IF=5.372, JCR2022) (https://doi.org/10.1016/j.compstruc.2022.106857)</li>
    <li> Zixin Zhang, Tejeswar Yarlagadda, Yao Zheng, Liming Jiang*, Asif Usmani, 2021. Isogeometric analysis based design of post-tensioned concrete beam towards construction-oriented topology optimization. Structural and Multidisciplinary Optimization (IF=4.542, JCR2021).</li>
-   
-<b>[Building Fire Safety] </b> 
-  <li>T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Enabling glass breakage modelling in CFD simulation of compartment fires. Journal of Building Engineering(pending to submission).</li>
-  <li>T. Chu, Liming Jiang*, A. Usmani. 2023. Introducing an active opening strategy to mitigate large open-plan compartment fire 
-development. Fire Safety Journal(under review).</li>
-  <li>T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2022. Fire impact on vertical components subjected to a localised fire estimated using a line source model. Fire Technology (https://doi.org/10.1007/s10694-023-01429-0).</li>
   <li>X.Zhang, T. Chu, Liming Jiang*, G. Zhu*, X.Liu, X. Xu, Z. Wu, 2022. On the orientation effect on the flame spread over discrete fuel using a mass-transfer number. Fire safety Journal (https://doi.org/10.1016/j.firesaf.2022.103730).</li>
   <li>Z. NAN, A. Khan, Liming Jiang*, S. Chen, A. Usmani. 2022. Application of Travelling Behavior Models for Thermal Responses in Large Compartment Fires.Fire Safety Journal, 134. (https://doi.org/10.1016/j.firesaf.2022.103702)</li>
   <li>A. Khan,Z. NAN, Liming Jiang*, V.Gupta, S. Chen,M. Khan, J. Hidalgo, A. Usmani. 2022. Model characterisation of localised burning impact from localised fire tests to travelling fire scenarios.Journal of Building Engineering(IF=7.144, JCR2022).</li>
-  <li>Z. NAN, A. Khan, X. Zhang, Liming Jiang*, X.Huang*, A. Usmani.  2022. Fire Spread and Burning Dynamics of Non-uniform Wood Cribs for Evolved Design Fire Scenarios. Fire Safety Journal.</li>
   <li>A. Orabi, Liming Jiang*, X.Huang*, A. Usmani.  2022. A Review on the Fire Resilience and Tests of Two-Way Composite Floors. Fire Technology. (https://doi.org/10.1007/s10694-022-01277-4)</li>
   <li>A. Orabi, Liming Jiang*, A. Usmani, J.Torero.  2022. The Collapse of World Trade Center 7: Revisited. Fire Technology.(invited by SIF)https://doi.org/10.1007/s10694-022-01225-2</li>
   <li>J. Qiu, Liming Jiang*, A. Usmani, 2021. Post-fire Performance and Repair of Reinforced Concrete Structural Members: A Review. International Journal of High-rise Buildings.DOI:10.21022/IJHRB.2021.10.4.323 </li>
   <li> M. Zhou, Liming. Jiang, S.W. Chen, R.P.R. Cardoso and A. Usmani, 2020. Remaining Fire Resistance of Steel Frames Following a moderate Earthquake - A Case Study. Journal of Constructional Steel Research (IF=3.646),164, 105754. </li>
-  <li> X. Dai, S. Welch, O. Vassart, K. Cábová, Liming. Jiang, J. Maclean, G.C. Clifton, and A. Usmani, 2020. An Extended Travelling Fire Method (ETFM) Framework for Performance-Based Structural Design, Fire and Materials, 3, 1-21 </li>
-  <li>M.A.Khan, Liming Jiang, K. A. Cashell and A. Usmani, 2019. Virtual hybrid simulation of beams with web openings in fire. Journal of Structural Fire Engineering, 11(1), 118-134.</li>
-  <li>T.Yarlagadda, H.Hajiloo, Liming Jiang, M.Green and A.Usmani, 2018. Preliminary modelling of Plasco Tower Collapse. International Journal of High-Rise Buildings 7(4):397-408.</li>
-  <li> Liming Jiang and A. Usmani, 2018. Towards scenario fires – modelling structural response to fire using an integrated computational tool. Advances in Structural Engineering, 21(13), 2056–2067.</li>
-  <li> Liming Jiang*, S.W. Chen and A. Usmani, 2018. Feasibility of dimensionally reduced heat transfer analysis for structural members subjected to localised fire. Advances in Structural Engineering, 21(11):1708-1722.</li>
-
-<b>[Computational Modelling & Advanced Testing]</b> 
-  <li>J. Qiu & L.Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).</li>
-  <li>J. Qiu, L.Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (pending to submission).</li>
   <li>C.Cheng, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2023. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires.  (pending to submission).</li>
   <li>C.Cheng & L.Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.OpenSees development for modelling timber structural members subjected to realistic fire impact. Fire and Material.</li>
   <li>J.Qiu & L.Jiang*, 2022. Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (under review)</li>
@@ -44,10 +35,15 @@ development. Fire Safety Journal(under review).</li>
   <li>A. Orabi, A. Khan*, Liming Jiang, T. Yarlagadda, A. Usmani. 2021. Integrated nonlinear structural simulation of tall buildings in fire. Engineering Structures (IF=4.471, JCR2021).DOI:10.1016/j.engstruct.2021.113593</li>
   <li> Khan, A., Khan, M., Zhang, C., Liming Jiang, Usmani, A., 2021. OpenFIRE: An Open Computational Framework for Structural Response to Real Fires. Fire Technology.</li>
    <li> M. Anwar, J. Qiu, Liming Jiang*, A. Usmani,  2021. Modelling concrete slabs subjected to localised fire action with OpenSees, Journal of Structural Fire Engineering(invited submission). https://doi.org/10.1108/JSFE-05-2021-0033</li>
-  <li> Liming Jiang, A. Orabi, J. Jiang, A., Usmani, 2020. Modelling concrete slabs subjected to fires using nonlinear layered shell elements and concrete damage plasticity material. Engineering Structures (IF=4.471), 234, 111977.</li>
   <li> Liming Jiang*, Y.Jiang, Z., Zhang, A., Usmani, 2021. Thermal analysis in OpenSees for fire and its smart application interface towards natural fire modelling. Fire Technology.</li>
-  <li>M.A.Khan, Liming Jiang*, K.A. Cashell, and A. Usmani, 2018. Analysis of restrained composite beams exposed to fire using a hybrid simulation approach. Engineering Structures (IF=4.471), 172: 956-966.</li>
+  <li> Liming Jiang, A. Orabi, J. Jiang, A., Usmani, 2020. Modelling concrete slabs subjected to fires using nonlinear layered shell elements and concrete damage plasticity material. Engineering Structures (IF=4.471), 234, 111977.</li>
+  <li> X. Dai, S. Welch, O. Vassart, K. Cábová, Liming. Jiang, J. Maclean, G.C. Clifton, and A. Usmani, 2020. An Extended Travelling Fire Method (ETFM) Framework for Performance-Based Structural Design, Fire and Materials, 3, 1-21 </li>
+  <li>M.A.Khan, Liming Jiang, K. A. Cashell and A. Usmani, 2019. Virtual hybrid simulation of beams with web openings in fire. Journal of Structural Fire Engineering, 11(1), 118-134.</li>
   <li>S.W. Chen, Liming Jiang*, L. Wu, Y. Wang, and A. Usmani, 2019. Damage investigation of cementitious fire resistive coatings under complex loading. Construction and Building Materials (IF=6.141) 204: 659-674.</li>
+  <li>T.Yarlagadda, H.Hajiloo, Liming Jiang, M.Green and A.Usmani, 2018. Preliminary modelling of Plasco Tower Collapse. International Journal of High-Rise Buildings 7(4):397-408.</li>
+  <li> Liming Jiang and A. Usmani, 2018. Towards scenario fires – modelling structural response to fire using an integrated computational tool. Advances in Structural Engineering, 21(13), 2056–2067.</li>
+  <li> Liming Jiang*, S.W. Chen and A. Usmani, 2018. Feasibility of dimensionally reduced heat transfer analysis for structural members subjected to localised fire. Advances in Structural Engineering, 21(11):1708-1722.</li>
+  <li>M.A.Khan, Liming Jiang*, K.A. Cashell, and A. Usmani, 2018. Analysis of restrained composite beams exposed to fire using a hybrid simulation approach. Engineering Structures (IF=4.471), 172: 956-966.</li>
   <li>Liming Jiang* and A. Usmani, 2018. Computational performance of beam-column elements in modelling structural members subjected to localised fire. Engineering Structures (IF=4.471), 156,490–502. </li>
   <li> J. Jiang, Liming Jiang, P. Kotsovinos, J. Zhang and A. Usmani, 2015. OpenSees Software Architecture for the Analysis of Structures in Fire. Journal of Computing in Civil Engineering, 29(1):1-13.</li>
   <li> S.W. Chen, Liming Jiang, A. Usmani, G.Q. Li and C. Jin, 2015. Damage mechanisms in cementitious coatings on steel members under axial loading. Construction & Building Materials , 90:18-35.</li>
