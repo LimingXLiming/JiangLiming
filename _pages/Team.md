@@ -5,27 +5,37 @@ permalink: /team/
 image: team.jpg
 ---
 
-#### Research Team
-* Supervised PhD Projects: 
-Ms QIU Jin, 
-Ms NAN Zhuojun, 
-Mr CHEN Cheng, 
-Mr CHU Tianwei，
-Ms WANG Ganyu[RISUD RPg Studentship Funded]
-Mr Zhang Zixin,
-* Co-supervised/co-advised PhD students:  Mr Venkata Ramakanth 
-* MEng/MSc Students: [2022-2023]Ms Wang Jinjin, Ms Huang Zhaoying, Ms Liu Wenyu
-* Incoming Exchange PhD Researcher: Mr WANG Zhiruoyu (University of Queensland)
-* Visiting Research Students: Mr LIANG Siyu (Tongji University), Mr Wang Ziqi (Chong Qing University)
+## Research Team
+#### Supervised PhD Projects
+* Ms QIU Jin: Simulation of Building Structures in Fires with Modern Designed Slabs (Development of OpenSees fire models for composite slabs, AI columns, and experimental tests), [[check her research at ResearchGate](https://www.researchgate.net/profile/Jin-Qiu-18/research)]
+* Mr CHEN Cheng: Simulation of Timber Material and Structural Members in Fires with OpenSees Framework
+* Mr CHU Tianwei: Investigation of fire behaviour in modern building compartments considering window glass breakage and active ventilation (CFD simulation of fire behaviour in various compartment setups and invetigation on a novel methodology of active opening)
+* Ms WANG Ganyu[RISUD RPg Studentship Funded]:
+* Ms NAN Zhuojun [Chief Supervisor: Prof Usmani]:
+* Mr ZHANG Zixin[RISUD RPg Studentship Funded, Chief Supervisor: Prof Usmani]:
+* Mr WANG Junsong[Chief Supervisor: Prof Usmani]:
 
-#### Previsou Team Members
+#### Co-supervised/co-advised PhD students
+* Mr Venkata Ramakanth
+* Mr Vihar Nijme
+
+#### MEng/MSc Students: 
+[2022-2023]Ms Wang Jinjin, Ms Huang Zhaoying, Ms Liu Wenyu
+
+#### Incoming Exchange PhD Researcher
+Mr HASSOUNE Mohammed (University of Blida 1, Algeria)
+
+## Previsou Team Members
 * Post-doc researcher: Dr CAI Xuesong (now Associate Professor in Harbin Engineering University)
 * Co-advised Post-doc researchers:Dr Anwar Orbi, Dr Aatif Khan (Now Lecturer in University of Canterbury)
 * Jointly supervised MSc student(Tongji): Mr WANG Ziyi (Now PhD student in Nanyang Technological University, Singapore
 * MEng/MSc Students: [2020-21]Ms ZHANG Ming; [2021-22] Mr LUO Chongyu, Mr Morgan Lau;
-* Undergraduate Research Students (Supported by [URIS](https://www.polyu.edu.hk/ous/uris/about-uris/)): Ms Ying Tun Lam (FSICA 2022 Award winner), Ms CHAN Wai Shan, Mr Wan Oscar Man
+* Undergraduate Research Students (Supported by [URIS](https://www.polyu.edu.hk/ous/uris/about-uris/)): Ms Ying Tun Lam (FSICA 2022 Award winner, for best FYP), Ms CHAN Wai Shan, Mr Wan Oscar Man
+* FYP student: LIU Jiahao (FSICA 2023 Award Winnder)
+* Incoming Exchange PhD Researcher: Mr WANG Zhiruoyu (University of Queensland)
+* Visiting Research Students: Mr LIANG Siyu (Tongji University), Mr Wang Ziqi (Chong Qing University)
 
-#### Opportunities
+## Opportunities
 * [Hong Kong PhD Fellowship](https://www.polyu.edu.hk/gs/hkpfs/what_is_the_fellowship.html), application entry: [PolyU HKPF Application](https://www.polyu.edu.hk/gs/hkpfs/how_to_apply.html)
 * PhD Studentship
 * Research Assistant
