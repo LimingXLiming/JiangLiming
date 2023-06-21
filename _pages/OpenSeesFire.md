@@ -1,12 +1,12 @@
 ---
 layout: page
-title: OpenSees
+title: OpenSees Dev
 permalink: /OpenSees/
-image: WTC7.png
+image: opensees.png
 ---
 
-### OpenSees for fire- An Open-source tool for modelling structures in fire
-( For more information about OpenSees for fire, please visit: [openseesforfire.github.io](http://openseesforfire.github.io/)
+### OpenSees for fire
+We have been developing OpenSees for fire since 2009, which was initially led by Prof Asif Usmani at University of Edinburgh. After years of development, it has become an Open-source tool for modelling structures in fire in various aspects, which include fire modelling, heat transfer analyses, thermo-mechanical analyses, and user interface. For more information about OpenSees for fire, you can visit our website [openseesforfire.github.io](http://openseesforfire.github.io/) or use the links below to access the specific contents:
 
 1.[OpenSees for fire - User manual](http://openseesforfire.github.io/user.html)
 
@@ -19,7 +19,7 @@ image: WTC7.png
 ***
 
 ### OpenSees for Topology Optimization: 
-* Link will be avialble soon
+Recently, we have been conducting development in OpenSees framework to achieve topology optimization based structural design, which is aimed to be a toolset for designing future structures seamlessly integrated with architecture design and empowered by 3D printing construction. 
 
 
 
