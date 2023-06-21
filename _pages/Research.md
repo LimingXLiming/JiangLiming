@@ -5,7 +5,7 @@ permalink: /Research/
 image: research.png
 ---
 
-Essentially, we are working on one topic: “structures in fire”. Separately speaking, we need to think about ‘What will structures be in future?’ and ‘How to respond the evolving fire safety challenges’.
+Essentially, we are working on one topic: “structures in fire”. Separately speaking, we need to think about ‘What will structures be in future?’ and ‘How to tackle the evolving fire safety challenges’.
 
 ## What will structures be in future?
 #### Elegantly Designed and Constructed Structures
@@ -22,7 +22,7 @@ Autonomous construction is of essential need to the current building industry, a
 
 ***
 
-## How to respond the evolving fire safety challenges?
+## How to tackle the evolving fire safety challenges?
 #### CFD simulation and fire testing to understand fire behaviour
 ![]({{site.baseurl}}/images/fire_behaviour.png)
 Improving fire safety performance of modern buildings has been an ultimate goal of our research. This has been complicated by the evolution of building design and introduction of sustainable construction materials. It has been found that a travelling behaviour can sustain in a large open-plan compartment (e.g. office) but may be replaced by a post-flashover fire after the ignition of timber members. We have been working on CFD simulation of fires to understand the fire behaviour and a series of fire models have been proposed. On the experimental side, we have conducted a number of fire tests and we will keep doing so for validation of models. Moreover, the recently purchased H-Tris Radiant Panel testing system can provide fire-equivalent testing on building materials, as it offers unparalleled capability of heat flux range (0~250kW/m2) and observable responses facilitated by external heating approach.
