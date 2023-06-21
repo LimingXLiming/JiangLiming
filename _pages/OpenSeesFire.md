@@ -2,7 +2,7 @@
 layout: page
 title: OpenSees Dev
 permalink: /OpenSees/
-image: opensees.png
+image: OpenSees.png
 ---
 
 ### OpenSees for fire
