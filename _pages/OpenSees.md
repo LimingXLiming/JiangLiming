@@ -19,7 +19,9 @@ We have been developing OpenSees for fire since 2009, which was initially led by
 ***
 
 ### OpenSees for Topology Optimization: 
-Recently, we have been conducting development in OpenSees framework to achieve topology optimization based structural design, which is aimed to be a toolset for designing future structures seamlessly integrated with architecture design and empowered by 3D printing construction. 
+Recently, we have been conducting development in OpenSees framework to achieve topology optimization based structural design, which is aimed to be a toolset for designing future structures seamlessly integrated with architecture design and empowered by 3D printing construction. For more information about OpenSees TO, you can visit our website:
+
+* [OpenSees TO](http://openseesforfire.github.io/opsto.html)
 
 
 
