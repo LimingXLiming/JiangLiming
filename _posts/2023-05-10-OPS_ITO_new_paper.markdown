@@ -1,0 +1,10 @@
+---
+layout: post
+title:  OPS-ITO:our development in OpenSees framework for topology optimization
+date:   2023-05-10 18:01:35 +0800
+image:  IGAOPS1.png
+tags:   Paper
+---
+## OPS-ITO:  Development of Isogeometric Analysis and Topology Optimization in OpenSEES for free-form structural design
+A new paper has been published in "Computer-aided Design".
+Abstract: Unlike the current design routine manually defining geometries for computational analyses, a future-oriented computer-aided design tool can generate a structural model through automated model optimization and iterative analyses. The topology optimization technique uses elemental density variables to formulate a computationally varying model based on analysis results, while an isogeometric analysis could facilitate the automatic iteration without adapting the mesh scheme at each step. This paper aims to bring these capabilities in the open-source simulation platform OpenSEES. The IGAQuad and IGABrick elements using NURBS based shape functions and geometric description are developed in this widely-used finite element modelling framework, which are then ported to a density-based topology optimization module. The modelling capabilities of the IGA elements have been verified using classic problems. The model optimization processes for loaded structural members are demonstrated using 2D and 3D cases, in which the eventually obtained geometric models are fundamentally different from the original boxy shapes but of less material cost and comparable structural performance. Although the development in this paper remains limited, the open-source and modular code infrastructure of OpenSees could facilitate continuous development on the basis of the topology optimization and isogeometric analysis in this paper, aiming for a computational tool to synergize the free form structural design and the advanced construction technologies.
