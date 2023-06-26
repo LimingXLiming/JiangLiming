@@ -46,10 +46,10 @@ The idea of hybrid testing is to analyze global behaviour using a structural sys
 ## Strategic collaboration on testing facilities and research
 * Fire testing and hybrid testing in Tongji University, supported by MoU and an open fund project with [Prof LI Guoqiang](http://steelpro.net/Default.aspx).
 * Large-scale fire testing in Wuhan University, Hubei Fire Research Center
-* Large-scale fire testing in Sichuan Fire Research Institute (SCFRI)
+* Large-scale fire testing in Sichuan Fire Research Institute ([SCFRI](https://www.scfri.cn/))
 * Fire testing in China University of Mining and Technology (CMUT)
 * Steel fire research group in Chongqing University([Prof WANG Weiyong](http://wangfire.net/))
-* FIre safey engineering research with [Fire Group in Universitty of Queendland](https://civil.uq.edu.au/research/fire-safety-engineering), Australia (UQ)
-* Low carbon buiding with University of Sheffield, University of Nottingham, UK.
-* Smart Construction collaborating with Shandong University (Prof WANG Peijun).
-* Indusrial collaborators: an extensive collection  of insdustrial collaborators built while working in Counry Garden Group, e.g. China Construction Group, Shanghai Construction Group, a number of Real-estate developers. 
+* Fire safety engineering research with [Fire Group in University of Queendland](https://civil.uq.edu.au/research/fire-safety-engineering), Australia (UQ)
+* Low carbon building with University of Sheffield, University of Nottingham, UK.
+* Smart Construction collaborating with Shandong University ([Prof WANG Peijun](https://www.tjsl.sdu.edu.cn/info/1316/4573.htm)).
+* Industrial collaborators: an extensive collection  of industrial collaborators built while working in Country Garden Group, e.g. China Construction Group, Shanghai Construction Group, a number of Real-estate developers.
