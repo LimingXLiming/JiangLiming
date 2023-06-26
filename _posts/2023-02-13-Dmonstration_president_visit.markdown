@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Demonstration of Radiant Panel System for Prsident's visit
-date:   2022-10-29 18:01:35 +0800
+date:   2023-02-13 18:01:35 +0800
 image:  president_visit.png
 tags:   News
 ---
