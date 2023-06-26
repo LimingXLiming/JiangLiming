@@ -1,5 +1,1 @@
-Open RUby command prompmt
-
-cd C:/learn/jiangliming
-
-bundle exec jekyll serve
+This is a repo for a personal website of Dr Liming Jiang.
