@@ -9,9 +9,8 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 1. Jin Qiu & Liming Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).
 2. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (under review).
 3. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires (pending to submission).
-4. T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating glass breakage models into the CFD simulation of compartment fires . Journal of Building Engineering(pending to submission).
-5. T. Chu, Liming Jiang*, A. Usmani. 2023. Introducing an active opening strategy to mitigate large open-plan compartment fire 
-development. Fire Safety Journal(under review).
+4. T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating Glass Breakage Models into CFD Simulation to Investigate Realistic Compartment Fire Behaviour. Journal of Building Engineering(under review).
+5. T. Chu, Liming Jiang*, A. Usmani. 2023. Introducing an active opening strategy to mitigate large open-plan compartment fire development. Fire Safety Journal(under review).
 6. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. A novel multi-pattern control for automated structure design using topology optimization to balance form and performance, Engineering Structures(under review)
 7. Tianwei Chu, Liming Jiang*, G. Zhu, A. Usmani. 2023. [Fire impact on vertical components subjected to a localised fire estimated using a line source model](https://doi.org/10.1007/s10694-023-01429-0). Fire Technology (https://doi.org/10.1007/s10694-023-01429-0).
 8. Jin Qiu & Liming Jiang*, 2023. Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (under review)
