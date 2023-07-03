@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Fire spread and burning dynamics of non-uniform wood crib for evolved design fire scenarios
+date:   2023-06-28 18:01:35 +0800
+image:  non_uniform.jpg
+tags:   Paper
+---
+## Fire spread and burning dynamics of non-uniform wood crib for evolved design fire scenarios
+The ‘travelling fire’ models have been used to describe the localised and travelling burning of uniform fuel bed in large open-plan building space. However, fuel is typically distributed non-uniformly in the built environment, leading to complex fire spread behaviours. This paper investigates the effect of non-uniform fuel load distribution on fire development in a sufficiently-ventilated space. A series of fire tests up to 3.5 MW with different wood crib layouts are categorised into two types, i.e., non-uniform and continuous, and non-uniform and discontinuous. The leading and trailing edges of the flame, height of flame, and fire spread rates are estimated using visual evidence. The non-uniform fuel load distribution fundamentally changes the spreading behaviour of fire. On a continuous wood crib, the fire spread rate and fire size are generally proportional to the fuel load density when the arrangement of the wood crib is similar. However, when wood cribs are discontinuous, the fire dynamics depend more on the localised burning size and gaps between fuels. Furthermore, very distinct fire behaviours were observed for fuel loads with different porosity. This work reveals the possible under-estimation of fire hazards of assuming evenly distributed fuel load and suggests considering design fire scenarios of non-uniform fuel load distribution in the performance-based fire safety design.
