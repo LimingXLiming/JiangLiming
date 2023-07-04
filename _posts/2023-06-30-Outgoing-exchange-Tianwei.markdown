@@ -2,7 +2,7 @@
 layout: post
 title:  Funded Outgoing Exchange to Ghent University
 date:   2023-06-30 18:01:35 +0800
-image:  Outgoing_exchange23.jpg
+image:  outgoing_exchange23.jpg
 tags:   News
 ---
 ## Outgoing Exchange student attachment programme for Tianwei to Ghent University 
