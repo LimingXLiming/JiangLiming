@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Funded Incoming Exchange
+title:  Funded Outgoing Exchange to Ghent University
 date:   2023-06-30 18:01:35 +0800
 image:  Outgoing_exchange23.jpg
 tags:   News
