@@ -6,8 +6,8 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
-1. XUesong Cai, Liming Jiang*, C.Yang, G.Lou, G-Q.Li, A. Usmani,Validation of Hybrid Fire Testing Framework on Steel Moment Frames with Non-fire Exposed Specimen(pending to submission)
-2.Jin Qiu & Liming Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).
+1. Xuesong Cai, Liming Jiang*, C.Yang, G.Lou, G-Q.Li, A. Usmani,Validation of Hybrid Fire Testing Framework on Steel Moment Frames with Non-fire Exposed Specimen(pending to submission).
+2. Jin Qiu & Liming Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).
 3. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (under review).
 4. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires (pending to submission).
 5. T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating Glass Breakage Models into CFD Simulation to Investigate Realistic Compartment Fire Behaviour. Journal of Building Engineering(under review).
