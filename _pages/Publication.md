@@ -6,17 +6,18 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
-1. Jin Qiu & Liming Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).
-2. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (under review).
-3. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires (pending to submission).
-4. T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating Glass Breakage Models into CFD Simulation to Investigate Realistic Compartment Fire Behaviour. Journal of Building Engineering(under review).
-5. T. Chu, Liming Jiang*, A. Usmani. 2023. Introducing an active opening strategy to mitigate large open-plan compartment fire development. Fire Safety Journal(under review).
-6. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. A novel multi-pattern control for automated structure design using topology optimization to balance form and performance, Engineering Structures(under review)
-7. Tianwei Chu, Liming Jiang*, G. Zhu, A. Usmani. 2023. [Fire impact on vertical components subjected to a localised fire estimated using a line source model](https://doi.org/10.1007/s10694-023-01429-0). Fire Technology (https://doi.org/10.1007/s10694-023-01429-0).
-8. Jin Qiu & Liming Jiang*, 2023. Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (under review)
-9. Zhuojun NAN, A. Khan, X. Zhang, Liming Jiang*, X.Huang *, A. Usmani.  2023. [Fire Spread and Burning Dynamics of Non-uniform Wood Cribs for Evolved Design Fire Scenarios](https://doi.org/10.1016/j.firesaf.2023.103840). Fire Safety Journal (https://doi.org/10.1016/j.firesaf.2023.103840).
-10. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. [OPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction](https://doi.org/10.1016/j.cad.2023.103517), Computer-aided design (https://doi.org/10.1016/j.cad.2023.103517)
-11. Cheng Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2023. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires.  (pending to submission).
+1. XUesong Cai, Liming Jiang*, C.Yang, G.Lou, G-Q.Li, A. Usmani,Validation of Hybrid Fire Testing Framework on Steel Moment Frames with Non-fire Exposed Specimen(pending to submission)
+2.Jin Qiu & Liming Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).
+3. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (under review).
+4. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires (pending to submission).
+5. T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating Glass Breakage Models into CFD Simulation to Investigate Realistic Compartment Fire Behaviour. Journal of Building Engineering(under review).
+6. T. Chu, Liming Jiang*, A. Usmani. 2023. Introducing an active opening strategy to mitigate large open-plan compartment fire development. Fire Safety Journal(under review).
+7. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. A novel multi-pattern control for automated structure design using topology optimization to balance form and performance, Engineering Structures(under review)
+8. Tianwei Chu, Liming Jiang*, G. Zhu, A. Usmani. 2023. [Fire impact on vertical components subjected to a localised fire estimated using a line source model](https://doi.org/10.1007/s10694-023-01429-0). Fire Technology (https://doi.org/10.1007/s10694-023-01429-0).
+9. Jin Qiu & Liming Jiang*, 2023. Using integrated composite slab section for rational simulation of multi-storey buildings in real fires.Computers and Structures (under review)
+10. Zhuojun NAN, A. Khan, X. Zhang, Liming Jiang*, X.Huang *, A. Usmani.  2023. [Fire Spread and Burning Dynamics of Non-uniform Wood Cribs for Evolved Design Fire Scenarios](https://doi.org/10.1016/j.firesaf.2023.103840). Fire Safety Journal (https://doi.org/10.1016/j.firesaf.2023.103840).
+11. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. [OPS-ITO:  Developing Isogeometric Analysis based Topology Optimization in OpenSEES for Structural Design towards 3D Printing Construction](https://doi.org/10.1016/j.cad.2023.103517), Computer-aided design (https://doi.org/10.1016/j.cad.2023.103517)
+12. Cheng Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2023. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires.  (pending to submission).
 
 1. C.Cheng,Liming Jiang*,J.Qiu, A.Orabi, W.S. Chan.2022.[OpenSees development for modelling timber structural members subjected to realistic fire impact](https://doi.org/10.1002/fam.3115). Fire and Material(https://doi.org/10.1002/fam.3115).
 2. X. Cai, Liming Jiang*, J. Qiu, A. Orabi, C. Yang, G. Lou, M. Khan, Y. Yuan, G-Q. Li, A. Usmani. 2022. [Dual-3D Hybrid Simulation of Steel Structures in Fires Using OpenSees and OpenFresco. Journal of Construction Steel Research](https://doi.org/10.1016/j.jcsr.2022.107511).(https://doi.org/10.1016/j.jcsr.2022.107511).
