@@ -47,17 +47,18 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
 
 #### Academic Duties
+* Co-Chair of 'Structure' workshop in IAFSS 2023.
 * Chair of Organising Committee of International Conference on Structures in Fire (SIF2022).
 * Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
+* Member of Society of Fire Protection Engineers (SFPE), International Association for Fire Safety Sceience
 * Research leader of structural fire engineering, Research Center for Fire Safety Engineering, PolyU.
+* Member of Research Institute of Sustainable Urban Development (RISUD), Research Institute of Advanced Manufacturing (RIAM).
 * Guest editor of Fire Technology, International Journal of High-rise Buildings.
 * Chair of mini-symposium of ICOSSAR 2021: fire safety, smart fire application.
 * Scientific Committee Member of AOSFST 2021.
 * Scientific Committee Member of SIF 2018, 2020; Session Chair of SIF2020.
 * Scientific Committee Member of CONFAB2017, 2019; Session Chair of CONFAB2017.
-* Member of Society of Fire Protection Engineers (SFPE), International Association for Fire Safety Sceience
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
-* Member of Research Institute of Sustainable Urban Development (RISUD), Research Institute of Advanced Manufacturing (RIAM).
 * Journal Reviewer for "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, “Journal of Structural Fire Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
