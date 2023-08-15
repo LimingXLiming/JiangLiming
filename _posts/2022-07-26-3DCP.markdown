@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Attending 3DCP conference
+date:   2023-07-23 12:01:35 +0800
+image:  3dcp.jpg
+tags:   News
+---
+## Atending 3DCP conference in Singapore
+We attended the 4th inernational conference on on 3D construction printing (3DCP). During the conference, we are amazed by the conference orgainising efforts and the research outcomes at NTU on 3D printing. We (Dr Liming Jiang and Zixin Zhang) made three presentations to the audience and met a lot of old and new friends over there.
