@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Introducing an Active Opening Strategy to Mitigate Large Open-plan Compartment Fire Development
+date:   2023-09-15 18:01:35 +0800
+image:  active_opening.png
+tags:   Paper
+---
+## Introducing an Active Opening Strategy to Mitigate Large Open-plan Compartment Fire Development
+A new paper by Mr Tianwei Chu, Dr Liming Jiang(corresponding author), and Asif Umsani has been accepted by Fire Safety Journal. Abstract: ‘Traveling fire’ behaviour was found in large compartment fire tests with initial window openings, which exhibits slow fire development benefiting fire safety design and firefighting. Since much faster fire spread is found in the same compartment with glass panels, this paper attempts to explore an ‘active opening’ strategy to open the glass panels to regain the ventilation assumptions. The proposed strategy uses an activation temperature to control the opening and it has been now implemented in the CFD fire models. Two extreme situations, i.e., initial opening without glass and windows initially closed with glass, are investigated. A striking difference of fire behaviour is found as flashover is observed in the latter scenario compared to the localized burning in the former case. While implementing active opening, the influences of activation temperature and window height on the performance of mitigating fire development are investigated. It is found that a lower activation temperature allows faster removal of hot smoke and thus avoids spontaneous ignition. Furthermore, the effect of window height is demonstrated as higher opening reduces the thickness of hot smoke, which effectively enables lower floor radiation and thus mitigates fast fire spread.

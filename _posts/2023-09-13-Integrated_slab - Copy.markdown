@@ -1,0 +1,9 @@
+---
+layout: post
+title:  An integrated section model to enable simulating composite slabs in fire simply as modelling a flat slab
+date:   2023-09-13 18:01:35 +0800
+image:  casslab.png
+tags:   Paper
+---
+## An integrated section model to enable simulating composite slabs in fire simply as modelling a flat slab
+A new paper by Ms Qiu Jin and Dr Liming Jiang has been accepted by Computers and Structures. Abstract: Modelling slabs is vitally necessary when simulating building structures in fire. The composite action between slabs and beams and tensile membrane action after fire induced deflections significantly reshape the load redistribution mechanisms and failure patterns. Modelling slabs particularly composite slabs of ribbed sections as a common choice of modern steel structures is a challenging task. Currently, those existing modelling approaches, such as beam & shell mode and strip models, require elements for ribbed and flat parts separately, which produces much complexity and ideally it can be solved using a suitable section model to appropriately represent the behaviour. This paper begins with formulating the theoretical base of state determination in the integrated composite section, which enables correct deformation distribution to ribbed and flat subsections. While being compatible to typical modelling infrastructure for slabs, the integrated section model has demonstrated excellent capability in comparison to the strip models and fire tests. Even using a coarse mesh scheme (e.g. 8×6 elements), the prediction error of mid-span deflection remains low (around 10%). The appealing benefit is further shown in modelling Cardington Corner fire test, which significantly reduces the efforts of determining geometric details, the number of nodes & elements, and the computation time cost. 
