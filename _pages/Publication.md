@@ -6,7 +6,7 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
-1. Xuesong Cai, Liming Jiang*, C.Yang, G.Lou, G-Q.Li, A. Usmani,Validation of Hybrid Fire Testing Framework on Steel Moment Frames with Non-fire Exposed Specimen, Structures (under review).
+1. Xuesong Cai, Liming Jiang*, C.Yang*, G.Lou, G-Q.Li, A. Usmani, Hybrid Fire Testing to Enable Multiple Substructures as Physical Specimen and Virtual Models, Structures (under review).
 2. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang,Chengyu Yang*, Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests, Earthquake Engineering and Structural Dynamics (under review).
 3. Jin Qiu & Liming Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).
 4. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (under review).
@@ -53,7 +53,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 14. 廖志娟; 陈素文; 江黎明; 吴林森, 2012. 纯弯荷载下厚型钢结构防火涂层破损的试验研究和数值分析. 防灾减灾工程学报，32：197-204. 
 
 
-#### Book Chapters
+#### Book
 
 
   * Asif Usmani, Liming Jiang, Aatif Khan, Anwar Orabi, Xinyan Huang. Structural Engineering for Fire Resistance: Integrated Simulation of Structural Response to Fire, CRC Press (writing)
