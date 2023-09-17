@@ -17,7 +17,7 @@ image: team.jpg
 [[check Zhuojun's research at ResearchGate](https://www.researchgate.net/profile/Zhuojun-Nan)]
 * Mr ZHANG Zixin[RISUD RPg Studentship Funded, Chief Supervisor: Prof Usmani]:
 (Construction-oriented Topology optimization, OpenSees Iosgeometric Topology Optimization, Novel multi-pattern control),
-[[check Tianwei's research at ResearchGate](https://www.researchgate.net/profile/Zixin-Zhang-2)]
+[[check Zixin's research at ResearchGate](https://www.researchgate.net/profile/Zixin-Zhang-2)]
 * Mr WANG Junsong[Chief Supervisor: Prof Usmani]:
 
 #### Co-supervised/co-advised PhD students
