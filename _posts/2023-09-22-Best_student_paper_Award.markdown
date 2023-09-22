@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Sheldon Tieszen Student Award for IAFSS Paper Excellence
-date:   2023-09-33 18:01:35 +0800
+date:   2023-09-22 18:01:35 +0800
 image:  IAFSS.png
 tags:   News
 ---
