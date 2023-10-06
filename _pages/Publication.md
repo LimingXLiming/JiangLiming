@@ -8,9 +8,9 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 #### Journal Publication
 1. Xuesong Cai, Liming Jiang *, Chengyu Yang *, G.Lou, G-Q.Li, A. Usmani, Hybrid Fire Testing to Enable Multiple Substructures as Physical Specimen and Virtual Models, Structures (under review).
 2. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang, Chengyu Yang *, Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests, Earthquake Engineering and Structural Dynamics (under review).
-3. Jin Qiu & Liming Jiang*.2023.Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. Engineering Structures (under review).
+3. Jin Qiu & Liming Jiang*.2023.[Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. ](https://doi.org/10.1016/j.engstruct.2023.116994)Engineering Structures, 297, 116994 (https://doi.org/10.1016/j.engstruct.2023.116994).
 4. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (under review).
-4. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires (pending to submission).
+4. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires，Construction and Building Materials (submitted).
 5. T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating Glass Breakage Models into CFD Simulation to Investigate Realistic Compartment Fire Behaviour. Journal of Building Engineering(under review).
 6. T. Chu, Liming Jiang*, A. Usmani. 2023. [Introducing an active opening strategy to mitigate large open-plan compartment fire development](https://doi.org/10.1016/j.firesaf.2023.103981). Fire Safety Journal, 141, 103981. (https://doi.org/10.1016/j.firesaf.2023.103981).
 7. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2023. A novel multi-pattern control for automated structure design using topology optimization to balance form and performance, Engineering Structures(under review)

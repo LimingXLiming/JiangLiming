@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Development of modular and reusable AI models for fast predicting fire behaviour of steel columns in structural systems
+date:   2023-10-06 18:01:35 +0800
+image:  AIcolumn.jpg
+tags:   Paper
+---
+## Development of modular and reusable AI models for fast predicting fire behaviour of steel columns in structural systems
+It is important to model the local failure of structural members as well as the global responses of a structural system when it is exposed to fire. The local failure of columns such as buckling requires high-resolution models, which could be not used for modelling a structural system for its computational cost. Inspired by the hybrid simulation technique, this paper aims to develop modular AI models as a first attempt to predict the local performance of a specific steel column exposed to fires and to enable the future communication with structural system model. Two kinds of machine learning methods namely artificial neural network (ANN) and support vector regression (SVR) are utilized to train AI models based on a large numerical dataset extended from a 3D detailed shell model of columns after validation against fire test results. The excellent prediction performance of AI models is shown regarding the mean squared error (MSE), mean absolute error (MAE), coefficient of the variation of the root mean square error (cvRMSE), variance accounting for (VAL) and coefficient of determination (R2). Moreover, the capability of AI models is demonstrated in predicting fire behaviour of columns in untrained steady heating and transient heating scenarios. A further demonstration is performed within a plane-frame structure simulated with a hybrid-scale model and considering standard fire heating on columns, which shows great potential of the AI models towards further implementation in hybrid simulation.
