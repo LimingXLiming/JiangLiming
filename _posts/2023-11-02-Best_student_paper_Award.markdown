@@ -2,7 +2,7 @@
 layout: post
 title:  Sheldon Tieszen Student Award for IAFSS Paper Excellence
 date:   2023-09-22 18:01:35 +0800
-image:  IAFSS.png
+image:  IAFSS_award1.jpg
 tags:   News
 ---
 ## Sheldon Tieszen Student Award to Tianwei for One of Best Student Papers in IAFSS
