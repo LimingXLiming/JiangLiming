@@ -70,7 +70,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
 * Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
 
-#### Awards to Supervised Students
+[Awards to Supervised Students]
 * IAFSS Sheldon Tieszen Student Award to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023.
 * FSICA Award 2023 to Mr LIU Jiahao for Best Final Year Project Performance (under Dr Jiang's supervision) in fire safety engineering in Hong Kong.
 * The HKIE Outstanding Paper Award for Young Engineers/ Researchers 2023 to Miss LAM Ying Tung for her URIS project paper "Study of Fire Impact on Glass Panels" under Dr Jiang's supervision.
