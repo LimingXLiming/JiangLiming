@@ -5,7 +5,7 @@ permalink: /about/
 image: about.jpg
 ---
 
-Dr JIANG Liming is Assistant Professor in the Department of Building Environment and Energy Building, working primarily on fire safety engineering of building structures. Before joining PolyU as AP, he worked in the Top real-estate developer Country Garden Group for nearly two years, where he was promoted in a fast track to Project General Manager. His Research Interests focus on "Structures" in " Fires", which include: Fire behaviour in modern buildings; Structural response to fire, Hybrid simulation/testing for fire safety engineering; Fire-safe timber structures;3D printed Structures; Computational modelling and software development;OpenSees for Fire: [openseesforfire.github.io](https://openseesforfire.github.io)
+Assistant Professor, Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hong Kong, China
 
 ***
 
@@ -47,6 +47,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
 
 #### Editorial Duties
+* Editorial Board Member of [Fire Safety Journal](https://www.sciencedirect.com/journal/fire-safety-journal)
 * Guest Editor of Fire Technology, "Structures in Fire"
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
@@ -54,15 +55,16 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
 * Chair of Organising Committee of International Conference on Structures in Fire (SIF2022).
 * Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
-* Member of Society of Fire Protection Engineers (SFPE), International Association for Fire Safety Sceience
+* Member of Society of Fire Protection Engineers (SFPE)
+* Member of International Association for Fire Safety Sceience (IAFSS)
 * Research leader of structural fire engineering, Research Center for Fire Safety Engineering, PolyU.
-* Member of Research Institute of Sustainable Urban Development (RISUD), Research Institute of Advanced Manufacturing (RIAM).
+* Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
 * Chair of mini-symposium of ICOSSAR 2021: fire safety, smart fire application.
 * Scientific Committee Member of AOSFST 2021.
-* Scientific Committee Member of SIF 2018, 2020; Session Chair of SIF2020.
+* Scientific Committee Member of SIF 2018, 2020, 2022, 2024; Session Chair of SIF2020, SiF2022.
 * Scientific Committee Member of CONFAB2017, 2019; Session Chair of CONFAB2017.
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
-* Journal Reviewer for more than 20 international journals, including "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, “Journal of Structural Engineering”, etc.
+* Reviewer for more than 20 international journals, including "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
 #### Awards
