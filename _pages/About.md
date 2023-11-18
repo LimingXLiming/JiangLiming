@@ -5,7 +5,7 @@ permalink: /about/
 image: about.jpg
 ---
 
-Dr JIANG Liming is Assistant Professor in the Department of Building Environment and Energy Building, working primarily on fire safety engineering of building structures. Before joining PolyU as AP, he worked in the Top real-estate developer Country Garden Group for nearly two years, where he was promoted in a fast track to Project General Manager. His Research Interests focus on the building industry and particularly fire safety of buildings, which include: Fire behaviour in modern buildings; Structural response of tall building in fire, Hybrid simulation/testing for fire safety engineering; Fire-safe timber structure; Computational modelling and software development:OpenSees for Fire: [openseesforfire.github.io](https://openseesforfire.github.io)
+Dr JIANG Liming is Assistant Professor in the Department of Building Environment and Energy Building, working primarily on fire safety engineering of building structures. Before joining PolyU as AP, he worked in the Top real-estate developer Country Garden Group for nearly two years, where he was promoted in a fast track to Project General Manager. His Research Interests focus on "Structures" in " Fires", which include: Fire behaviour in modern buildings; Structural response to fire, Hybrid simulation/testing for fire safety engineering; Fire-safe timber structures;3D printed Structures; Computational modelling and software development;OpenSees for Fire: [openseesforfire.github.io](https://openseesforfire.github.io)
 
 ***
 
@@ -47,7 +47,8 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
 
 #### Editorial Duties
-* Guest editor of Fire Technology, International Journal of High-rise Buildings.
+* Guest Editor of Fire Technology, "Structures in Fire"
+* Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
 #### Academic Duties
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
@@ -61,7 +62,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 * Scientific Committee Member of SIF 2018, 2020; Session Chair of SIF2020.
 * Scientific Committee Member of CONFAB2017, 2019; Session Chair of CONFAB2017.
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
-* Journal Reviewer for "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, “Journal of Structural Fire Engineering”, etc.
+* Journal Reviewer for more than 20 international journals, including "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
 #### Awards
@@ -72,7 +73,7 @@ Dr JIANG Liming is Assistant Professor in the Department of Building Environment
 
 [Awards to Supervised Students]
 * IAFSS Sheldon Tieszen Student Award to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023.
-* FSICA Award 2023 to Mr LIU Jiahao for Best Final Year Project Performance (under Dr Jiang's supervision) in fire safety engineering in Hong Kong.
+* FSICA Award 2023 to Mr LIU Jiahao for Best Student Project Performance (under Dr Jiang's supervision) in fire safety engineering in Hong Kong.
 * The HKIE Outstanding Paper Award for Young Engineers/ Researchers 2023 to Miss LAM Ying Tung for her URIS project paper "Study of Fire Impact on Glass Panels" under Dr Jiang's supervision.
 * The HKIE (Fire Division) Scholarship 2022 to Miss LAM Ying Tung for student excellence in fire safety engineering.
-* FSICA Award 2022 to Miss LAM Ying Tung for Best Final Year Project Performance (under Dr Jiang's supervision)in fire safety engineering in Hong Kong.
+* FSICA Award 2022 to Miss LAM Ying Tung for Best Student Project Performance (under Dr Jiang's supervision)in fire safety engineering in Hong Kong.
