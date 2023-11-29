@@ -9,7 +9,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 1. Xuesong Cai, Liming Jiang *, Chengyu Yang *, G.Lou, G-Q.Li, A. Usmani, Hybrid Fire Testing to Enable Multiple Substructures as Physical Specimen and Virtual Models, Structures (under review).
 2. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang, Chengyu Yang *, Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests, Earthquake Engineering and Structural Dynamics (under review).
 3. Jin Qiu & Liming Jiang*.2023.[Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. ](https://doi.org/10.1016/j.engstruct.2023.116994)Engineering Structures, 297, 116994 (https://doi.org/10.1016/j.engstruct.2023.116994).
-4. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures (under review).
+4. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures.
 4. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires，Construction and Building Materials (under review).
 5. Cheng Chen, Liming Jiang*, Tianwei Chu, Asif Usmani, A conceptual design of timber-insulation mixed slab section to mitigate fast fire development due to timber fire exposure (pending to submission)
 5. T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating Glass Breakage Models into CFD Simulation to Investigate Realistic Compartment Fire Behaviour. Journal of Building Engineering(under review).
@@ -71,6 +71,8 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 
 
 #### Major Conference Publication
+* J. Qiu, Liming Jiang*, A. Usmani, 2023, Using an AI Model with User Interface to Predict Steel Column Behavior in Fire, Proceedings of the 12th International Symposium on Steel Structures, Jeju, Korea.
+* T. Chu, Liming Jiang*, A. Usmani, 2023, Introducing an active opening strategy to mitigate large open-plan compartment fire development. 14th International Symposium on Fire Safety Science (IAFSS), Japan. (Winning Sheldon Tieszen Student Award)
 * J. Wang, C. CHEN, T. CHU, Liming Jiang, V. Nimje, T. Yarlagadda, P. Wang, A. Usmani, 2023, Experimental study and opensees modelling for thermal response of 3d printed concrete exposed to fires, 4th International Conference on 3D Construction Printing (4th 3DcP), Singapore.
 * J. Qiu, Liming Jiang, 2022, Towards application of AI-FE hybrid analyses for simulating structures in fire, 12th International Conference on Structures in Fire (SiF2022)
 * J. Qiu, X. Cai, Liming Jiang, A. Usmani, 2022, Reconstruct the load redistribution paths in multi-floor fire scenarios using 3d structural models, 12th International Conference on Structures in Fire (SiF2022)
@@ -96,6 +98,10 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 
 
 #### Webinar and Invited Talks
+* Numerical Modelling and Experimental Study for fire safety of modern buildings, Jingganshan University, Ji’An, 23 Nov 2023.
+* Future Fire-safe Facade Glass System with Active Ventilation, Joint Symposium 2023- Shaping the future: Trends and Insights for Tomorrow Technologies Development in Greater Bay Area, 22 Nov 2023.
+* PolyU Research on Building Fire Safety Engineering and International Research Trend, The 4th Engineer Salon of China Association of Engineers, online, 15 Oct 2023.
+* Recent research at PolyU Aiming for True Fire Safety of Modern Buildings, Nanyang Technological University, Singapore, 19 July 2023. 
 * Recent Progress on compartmental fire and numerical modelling research, Wuhan University(武汉大学), 6 June 2023.
 * Recent Progress on compartmental fire and numerical modelling research, Tongji University(同济大学), 30 May 2023.
 * Trend and Rethinking of ‘Structures in Fire’ Research and Numerical Modelling Solutions, Chongqing University(重庆大学), 26 May 2023.

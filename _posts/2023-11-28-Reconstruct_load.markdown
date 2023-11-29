@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Reconstruct the 3D load redistribution paths of framed structures subjected to local column failure and multi-floor fire
+date:   2023-11-28 18:01:35 +0800
+image:  reconstruct.png
+tags:   Paper
+---
+## Reconstruct the 3D load redistribution paths of framed structures subjected to local column failure and multi-floor fire
+Considering the slabs in the global response of steel framed buildings in fires is important, as deflected floor slabs could redistribute the load to columns leading to column failure and even progressive collapses. Floor slab systems also experience tensile membrane action after deflection, which differs from the behaviour observed using 2D structural fire models. This paper focuses on unfolding the load redistribution mechanisms using 3D steel-concrete composite structure models, while multi-floor spreading fires and local failure of columns are considered. A framed structural model based on the Cardington building is designed and modelled, in which the composite slabs at different floors are simulated using the recently developed high-efficiency slab model to address the slab effect to the global load redistribution. Four hazard scenarios representing different states of the central column (i.e., fully protected, partially protected or failed) are given as the initiating local failure. The analyses with the 3D structural models show that the slabs can effectively pull up the failed column and the vertical loads are transferred to the adjacent columns. The worst scenario has been identified as the case experiencing column failure both at the upper floor and the lower floor, which leads to the middle floor without pulling action and causes significantly large deflection.  This may be a scenario that local column failure triggers progressive collapse of a real building and should be prevented.
