@@ -74,9 +74,9 @@ Assistant Professor, Department of Building Environment and Energy Engineering, 
 * Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
 
 [Awards to Supervised Students]
-* Best URIS Project Award (Merit Award)to Miss LAM Ying Tung (as supervisor), 2023
-* IAFSS Sheldon Tieszen Student Award to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023.
-* FSICA Award 2023 to Mr LIU Jiahao for Best Student Project Performance (under Dr Jiang's supervision) in fire safety engineering in Hong Kong.
-* The HKIE Outstanding Paper Award for Young Engineers/ Researchers 2023 to Miss LAM Ying Tung for her URIS project paper "Study of Fire Impact on Glass Panels" under Dr Jiang's supervision.
-* The HKIE (Fire Division) Scholarship 2022 to Miss LAM Ying Tung for student excellence in fire safety engineering.
-* FSICA Award 2022 to Miss LAM Ying Tung for Best Student Project Performance (under Dr Jiang's supervision)in fire safety engineering in Hong Kong.
+* Best URIS Project Award (Merit Award)to Miss LAM Ying Tung (as project supervisor), 2023
+* IAFSS Sheldon Tieszen Student Award to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023 (as cheif PhD supervisor and corresponding author) .
+* FSICA Award 2023 to Mr LIU Jiahao for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
+* The HKIE Outstanding Paper Award for Young Engineers/ Researchers 2023 to Miss LAM Ying Tung for her URIS project paper "Study of Fire Impact on Glass Panels" (as project supervisor).
+* The HKIE (Fire Division) Scholarship 2022 to Miss LAM Ying Tung for student excellence in fire safety engineering (as project supervisor).
+* FSICA Award 2022 to Miss LAM Ying Tung for Best Student Project Performance in fire safety engineering in Hong Kong(as project supervisor).
