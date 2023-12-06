@@ -73,7 +73,7 @@ Assistant Professor, Department of Building Environment and Energy Engineering, 
 * Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
 * Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
 
-[Awards to Supervised Students]
+[Awards to Supervised Students or Projects]
 * Best URIS Project Award (Merit Award)to Miss LAM Ying Tung (as project supervisor), 2023
 * IAFSS Sheldon Tieszen Student Award to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023 (as cheif PhD supervisor and corresponding author) .
 * FSICA Award 2023 to Mr LIU Jiahao for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).
