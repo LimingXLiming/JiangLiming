@@ -6,10 +6,11 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
-1. Xuesong Cai, Liming Jiang *, Chengyu Yang *, G.Lou, G-Q.Li, A. Usmani, Hybrid Fire Testing to Enable Multiple Substructures as Physical Specimen and Virtual Models, Structures (under review).
-2. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang, Chengyu Yang *, Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests, Earthquake Engineering and Structural Dynamics (under review).
+1. T. Chu, C. Chen, G. Wang, Y. Tian, D.Yuan, G. Zhang, Y. T. Lam, A. Usmani, Liming Jiang *. 2023. Mechanisms of Active Opening Strategy in Mitigating Compartment Fires: Insights from Reduced-scaled Experiments, Proceedings of Combustion Institute (under review).
+2. Xuesong Cai, Liming Jiang *, Chengyu Yang *, G.Lou, G-Q.Li, A. Usmani. 2023. Hybrid Fire Testing to Enable Multiple Substructures as Physical Specimen and Virtual Models, Structures (under review).
+2. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang, Chengyu Yang *. 2023. Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests, Earthquake Engineering and Structural Dynamics (under review).
 3. Jin Qiu & Liming Jiang*.2023.[Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems. ](https://doi.org/10.1016/j.engstruct.2023.116994)Engineering Structures, 297, 116994 (https://doi.org/10.1016/j.engstruct.2023.116994).
-4. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models. Structures.
+4. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.[Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models](https://doi.org/10.1016/j.istruc.2023.105668). Structures, 58, 105668(https://doi.org/10.1016/j.istruc.2023.105668)
 4. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires，Construction and Building Materials (under review).
 5. Cheng Chen, Liming Jiang*, Tianwei Chu, Asif Usmani, A conceptual design of timber-insulation mixed slab section to mitigate fast fire development due to timber fire exposure (pending to submission)
 5. T. Chu, Liming Jiang*,G. Zhu, A. Usmani. 2023. Integrating Glass Breakage Models into CFD Simulation to Investigate Realistic Compartment Fire Behaviour. Journal of Building Engineering(under review).
