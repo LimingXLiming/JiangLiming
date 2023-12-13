@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Integrating glass breakage models into CFD simulation to investigate realistic compartment fire behaviour
+date:   2023-12-13 18:01:35 +0800
+image:  glass_fire.jpg
+tags:   Paper
+---
+## Integrating glass breakage models into CFD simulation to investigate realistic compartment fire behaviour
+Glass failure affects the ventilation conditions in compartments, which particularly varies the fire development history in large compartments as the initial ventilation may become insufficient due to the existence of window glass. This paper proposes a ‘criterion-controlled’ model to simulate the interaction between glass failure and fire behaviour in CFD fire models. The proposed modelling approach has shown good performance in simulating the Shield Test, where the predicted cracking points and timeline of glass failure are almost identical to the test records. By implementing the glass failure model in the large compartment fire models adapted from the Kirby Test and the Malveira Test models, the influence of glass failure on the large compartment fires has been revealed. In the adapted Kirby Test model with glass panes, the case with window glass exhibits a much faster fire growth compared to the case with initially opened windows of no glass. When considering the window glass failure in Malveira Test model, the slow ‘travelling fire’ behaviour found in the full-scale test is changed to a fast spread fire and the window glass panels fail to provide the desired ventilation, which suggests the inadequacy of assuming complete openings at windows and it is necessary to consider the effect of window glass to large open-plan compartment fires in real modern buildings.
