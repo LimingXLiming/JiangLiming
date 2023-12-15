@@ -31,10 +31,11 @@ Assistant Professor, Department of Building Environment and Energy Engineering, 
 
 #### Research Interests
 * Fire safety of modern buildings 
-* Hybrid simulation/testing for structures in fire
-* Fire-safe timber structure
-* Computational modelling for buildings in fire
-* OpenSees based software development
+* Fire-safe timber-integrated structures
+* Autonomous Contruction Technologies
+* Computational modelling 
+* Hybrid simulation/testing 
+* OpenSees software development
 
 
 #### Teaching Subjects
@@ -68,6 +69,7 @@ Assistant Professor, Department of Building Environment and Energy Engineering, 
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
 #### Awards
+* Editor's Featured Paper Award of "Engineering Structures" Journal, for paper titled "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
 * Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering, Oct 2022.
 * Top cited journal paper 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
 * Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
