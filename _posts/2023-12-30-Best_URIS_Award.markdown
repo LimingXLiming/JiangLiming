@@ -2,7 +2,7 @@
 layout: post
 title:  Our URIS project won Best URIS Project Merit Award
 date:   2023-12-30 18:01:35 +0800
-image:  URIS_award2023.png.png
+image:  URIS_award2023.png
 tags:   News
 ---
 ## Our URIS project on glass behaviour in fire has won PolyU Best URIS Project Merit Award
