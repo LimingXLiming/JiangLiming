@@ -2,7 +2,7 @@
 layout: post
 title:  RISUD Visting Fellow Application for Prof Chao Zhang has been approved
 date:   2024-01-10 18:01:35 +0800
-image:  chao_zhang.png
+image:  chao_zhang.jpg
 tags:   News
 ---
 ## Our application for RISUD Visiting Fellowship of Prof Chao Zhang has been approved
