@@ -6,26 +6,27 @@ image: team.jpg
 ---
 
 ## Research Team
+#### Post-Doc Researchers
+* Dr LI Shouzhen( working on 3D printing solution development)
+* Dr WU Taotao (working on steel-concrete composite sections)
+* Dr ZHANG Zixin[Previsouly PhD student supported by RISUD RPg Studentship, Chief Supervisor: Prof Usmani]:
+(Construction-oriented Topology optimization, OpenSees Iosgeometric Topology Optimization, Novel multi-pattern control),
+[[check Zixin's research at ResearchGate](https://www.researchgate.net/profile/Zixin-Zhang-2)]
+
 #### Supervised PhD Projects
 * Ms QIU Jin: Simulation of Building Structures in Fires with Modern Designed Slabs 
 (Development of OpenSees fire models for composite slabs, integrated slab section, AI columns, AI-FE simulation framework, and experimental tests), [[check Qiujin's research at ResearchGate](https://www.researchgate.net/profile/Jin-Qiu-18/research)]
 * Mr CHEN Cheng: Simulation of Timber Material and Structural Members in Fires with OpenSees Framework
-* Mr CHU Tianwei: Investigation of fire behaviour in modern building compartments considering window glass breakage and active ventilation (CFD simulation of large comaprtment fire, vertical fire impact, a novel methodology of active opening, glass breakage behaviour), [[check Tianwei's research at ResearchGate](https://www.researchgate.net/profile/Tianwei-Chu)]
-* Ms WANG Ganyu[RISUD RPg Studentship Funded]:
-* Ms NAN Zhuojun [Chief Supervisor: Prof Usmani]:
-(Travelling fire behaviour, burning dynamics on non-uniform fuel bed)
-[[check Zhuojun's research at ResearchGate](https://www.researchgate.net/profile/Zhuojun-Nan)]
-* Mr ZHANG Zixin[RISUD RPg Studentship Funded, Chief Supervisor: Prof Usmani]:
-(Construction-oriented Topology optimization, OpenSees Iosgeometric Topology Optimization, Novel multi-pattern control),
-[[check Zixin's research at ResearchGate](https://www.researchgate.net/profile/Zixin-Zhang-2)]
-* Mr WANG Junsong[Chief Supervisor: Prof Usmani]:
+* Mr CHU Tianwei (Excahange to Ghent University supported by PolyU Funding): Investigation of fire behaviour in modern building compartments considering window glass breakage and active ventilation (CFD simulation of large comaprtment fire, vertical fire impact, a novel methodology of active opening, glass breakage behaviour), [[check Tianwei's research at ResearchGate](https://www.researchgate.net/profile/Tianwei-Chu)]
+* Ms WANG Ganyu[RISUD RPg Studentship Funded]
 
 #### Co-supervised/co-advised PhD students
 * Mr Venkata Ramakanth
 * Mr Vihar Nijme
+* Mr WANG Junsong[Chief Supervisor: Prof Usmani]
 
-#### MEng/MSc Students: 
-[2022-2023]Ms Wang Jinjin, Ms Huang Zhaoying, Ms Liu Wenyu
+#### Research Assistants: 
+Ms Wang Jinjin, Mr Tian Yimin
 
 #### Incoming Exchange PhD Researcher
 Mr HASSOUNE Mohammed (University of Blida 1, Algeria)
@@ -33,6 +34,9 @@ Mr HASSOUNE Mohammed (University of Blida 1, Algeria)
 ## Previsou Team Members
 * Post-doc researcher: Dr CAI Xuesong (now Associate Professor in Harbin Engineering University)
 [[check Xuesong's research at ResearchGate](https://www.researchgate.net/profile/Xuesong-Cai-3)]
+* Ms NAN Zhuojun [Chief Supervisor: Prof Usmani]:
+(Travelling fire behaviour, burning dynamics on non-uniform fuel bed)
+[[check Zhuojun's research at ResearchGate](https://www.researchgate.net/profile/Zhuojun-Nan)]
 * Co-advised Post-doc researchers:Dr Anwar Orbi, Dr Aatif Khan (Now Lecturer in University of Canterbury)
 * Jointly supervised MSc student(Tongji): Mr WANG Ziyi (Now PhD student in Nanyang Technological University, Singapore
 * MEng/MSc Students: [2020-21]Ms ZHANG Ming; [2021-22] Mr LUO Chongyu, Mr Morgan Lau;
