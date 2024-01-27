@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Reconstruct the 3D load redistribution paths of framed structures subjected to local column failure and multi-floor fire
+title:  New Paper--Reconstruct the 3D load redistribution paths of framed structures subjected to local column failure and multi-floor fire
 date:   2023-11-28 18:01:35 +0800
 image:  reconstruct.png
 tags:   Paper

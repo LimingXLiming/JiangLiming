@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  An integrated section model to enable simulating composite slabs in fire simply as modelling a flat slab
+title:  New Paper--An integrated section model to enable simulating composite slabs in fire simply as modelling a flat slab
 date:   2023-09-13 18:01:35 +0800
 image:  casslab.png
 tags:   Paper
