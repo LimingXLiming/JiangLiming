@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  New Paper--Integrating glass breakage models into CFD simulation to investigate realistic compartment fire behaviour
-date:   2023-12-13 11:01:35 +0800
+title:  New Paper--Hybrid Simulation with Multiple Synchronized Substructures as Virtual Fire-exposed Models and Physical Specimen in Laboratory
+date:   2024-01-26 11:01:35 +0800
 image:  hybrid_simulation.jpg
 tags:   Paper
 ---
