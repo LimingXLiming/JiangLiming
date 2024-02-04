@@ -1,0 +1,9 @@
+---
+layout: post
+title:  New Paper--A novel multi-pattern control for topology optimization to balance form and performance needs
+date:   2024-02-04 11:01:35 +0800
+image:  patterncontrol.png
+tags:   Paper
+---
+## A novel multi-pattern control for topology optimization to balance form and performance needs
+A new paper on multi-pattern control has been published on "Engineering Structures". Abstract: Topology optimization is a numerical method to find an optimal structural design governed by constraint and objective functions. This method has been enabled for free-form models pursuing the best performance or a fully periodic design in unit cells for modular prefabrication. However, an intermediate design that is neither free-form nor full-periodic is of practical significance, which could facilitate the balanced need for form and performance. In this paper, a novel multi-pattern control is developed to allow intermediate designs between these two extreme premises of topology optimization. The developed scheme divides an initial design domain into multiple groups of unit cells and enables individual pattern control for each group, which thereafter generates a variety of inspiring models fulfilling the various needs of form aesthetics, manufacturability, and structural performance. The number of pattern variations (NoV) is employed as a variable to control the pattern recurrence in unit cells, which is further equipped with the developed automated grouping using the clustering method and zero-force removal for post-processing. The inspiring models and exciting benefits from the multi-pattern control have been demonstrated with beam and building frame models, which shows how the eventually optimized designs vary as the NoV is changed.
