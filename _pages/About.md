@@ -5,7 +5,8 @@ permalink: /about/
 image: about.jpg
 ---
 
-Assistant Professor, Department of Building Environment and Energy Engineering, The Hong Kong Polytechnic University, Hong Kong, China
+I am an Assistant Professor in Department of Building Environment and Energy Engineering in The Hong Kong Polytechnic University. I primarily work in the two aspects of "Structures in Fire", i.e., fire safety engineering for modern building structures, and future-oriented structural solutions using automated technologies. 
+我現任職于香港理工大學建築環境及能源工程學系，主要研究現代建築結構的火災安全及面向未來的自動化施工的結構方案。
 
 ***
 
