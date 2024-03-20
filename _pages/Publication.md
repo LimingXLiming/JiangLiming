@@ -6,10 +6,11 @@ image: pub.jpg
 ---
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
-1. Peijun Wang, Huai Wang; Bingyan Tang; Ning An; Mei Liu; Yang Li; Liming Jiang; Hexin Zhang,2024, Post-fire mechanical properties of 3D printed concrete under different cooling methods, Additive Manufacturing (under review)
+1. Peijun Wang, Huai Wang; Bingyan Tang; Ning An; Mei Liu; Yang Li; Liming Jiang; Hexin Zhang,2024, Post-fire mechanical properties of 3D printed concrete under different cooling methods, Construction and Building Materials(under review)
+2. C. Liu, G. Zhang, D. Yuan, Liming Jiang, Y. Fan, Experimental study on suppressing thermal runaway propagation of electric vehicle batteries by hydrogel, Fire Technology (under review)
 2. G-Q.Li, J.Li, C. Zhang, B.Chen,W. Ji, Y. Wang, N. Chen, H. Qi, X. Yang, L.Jiang, Y. Nie, Q. Luo, 2024, Experimental Validation via a Real Building with Truss Roof on RealTime Early Warning System for Fire-Induced Collapse, Fire Safety Journal (under review)
 3. G-Q. Li, et.al, L. Jiang, 2024, Dataset for Fire-Induced Collapse Test on an Existing Building with a Truss Roof, Journal of Structural Engineering (under review)
-4. Yiwei Weng, et.al, Liming Jiang,2024. Advancements in Construction: Material Recycling, Structural Optimization, and Toolpath Design in 3D Concrete Printing – A Comprehensive Review,  npj Materials Sustainability (under review)
+4. Z.Zhuang, F. Xu, J. Ye, N. Hu, Liming Jiang，Yiwei Weng,2024. A Comprehensive Review of Sustainable Materials and Toolpath Optimization in 3D Concrete Printing,  npj Materials Sustainability.
 5. T. Chu, C. Chen, G. Wang, Y. Tian, D.Yuan, G. Zhang, Y. T. Lam, A. Usmani, Liming Jiang *. 2023. Mechanisms of Active Opening Strategy in Mitigating Compartment Fires: Insights from Reduced-scaled Experiments, Proceedings of Combustion Institute (under review).
 6. Xuesong Cai, Liming Jiang *, Chengyu Yang *, G.Lou, G-Q.Li, A. Usmani. 2023. [Hybrid simulation with multiple synchronized substructures as virtual fire-exposed models and physical specimen in laboratory](https://doi.org/10.1016/j.istruc.2024.105936). Structures, 60, 105936 (https://doi.org/10.1016/j.istruc.2024.105936).
 7. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang, Chengyu Yang *. 2023. Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests, Earthquake Engineering and Structural Dynamics (under review).
