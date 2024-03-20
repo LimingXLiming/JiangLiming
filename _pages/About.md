@@ -53,6 +53,8 @@ Assistant Professor, Department of Building Environment and Energy Engineering, 
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
 #### Academic Duties
+* Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
+* Member of Local Organising Committee of 5th 3D Construction Printing Conference, 2024, Hong Kong
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
 * Chair of Organising Committee of International Conference on Structures in Fire (SIF2022).
 * Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
@@ -69,9 +71,10 @@ Assistant Professor, Department of Building Environment and Energy Engineering, 
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
 #### Awards
-* Editor's Featured Paper Award of "Engineering Structures" Journal, for paper titled "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
+* Wiley Top Downloaded Article 2022, FIre and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
+* Editor's Featured Paper Award of "Engineering Structures" Journal, "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
 * Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering, Oct 2022.
-* Top cited journal paper 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
+* Wiley Top cited Article 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
 * Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
 * Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
 
