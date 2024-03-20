@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Co-charing Structures in fire workshop at IAFSS2023
+title:  Co-chairing Structures in fire workshop at IAFSS2023
 date:   2023-10-29 18:01:35 +0800
 image:  IAFSS_workshop.jpg
 tags:   News
