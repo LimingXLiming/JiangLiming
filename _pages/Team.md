@@ -18,7 +18,7 @@ image: team.jpg
 * Mr CHU Tianwei (Excahange to Ghent University supported by PolyU Funding): Investigation of fire behaviour in modern building compartments considering window glass breakage and active ventilation (CFD simulation of large comaprtment fire, vertical fire impact, a novel methodology of active opening, glass breakage behaviour), [[check Tianwei's research at ResearchGate](https://www.researchgate.net/profile/Tianwei-Chu)]
 * Ms WANG Ganyu[Funded by RISUD RPg Scholarship]
 * Ms XU Binyan [Funded by PolyU Presidential PhD Scholarship, joining in Sep 2024](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)
-* Ms ZENG Wenxin [Joining in Sep 2024]
+
 
 #### Co-supervising/co-advising PhD students
 * Mr Venkata Ramakanth
@@ -26,7 +26,7 @@ image: team.jpg
 * Mr WANG Junsong[Chief Supervisor: Prof Usmani]
 
 #### Research Assistants
-Ms Wang Jinjin, Mr Tian Yimin
+Ms Wang Jinjin
 
 #### Incoming Exchange PhD Researcher
 Mr HASSOUNE Mohammed (University of Blida 1, Algeria)
