@@ -34,7 +34,7 @@ We have  been  dedicated to developing OpenSees to perform integrated simulation
 #### A testing platform: e-controlled radiant panel testing system
 ![]({{site.baseurl}}/images/Panel.png)
 This radiant panel testing system is supported by the Large Equipment Fund(LEF2021-022). The system comprises a radiant panel complex, gas suppliers and controller items. The radiant panel covering a large range of heat flux (up to 200kw/m2 equivalent to large fires) is externally applied to the testing specimens, which enables direct observation of students on the thermal performance and fire response of building materials and devices. Particularly, each unit can be individually activated (e.g., only Unit 1, or Units 1&2, or all units) to offer high flexibility allowing various scales of testing. We have been developing a e-controlled version upon this radiant panel system. A GUI software has been developed by Mr Siyu Liang to access the control modules of the gas-air suppliers and the newly built servo-controlled trail. We have been using this system to test the fire response of construction materials, which essentially facilitated the observation and the real fire equivalent testing.
-<iframe src="https://www.youtube.com/embed/TlnzLhNGrxw" frameborder ="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/noCIBid2HAs?si=BIgsh_6fb_9-A7V0" frameborder ="0" allowfullscreen></iframe>
 
 <br>
 #### Hybrid simulation/testing 
