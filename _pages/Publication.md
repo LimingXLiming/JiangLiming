@@ -9,7 +9,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 1. Peijun Wang, Huai Wang; Bingyan Tang; Ning An; Mei Liu; Yang Li; Liming Jiang; Hexin Zhang,2024, Post-fire mechanical properties of 3D printed concrete under different cooling methods, Construction and Building Materials(under review)
 2. C. Liu, G. Zhang, D. Yuan, Liming Jiang, Y. Fan, Experimental study on suppressing thermal runaway propagation of electric vehicle batteries by hydrogel, Fire Technology (under review)
 2. G-Q.Li, J.Li, C. Zhang, B.Chen,W. Ji, Y. Wang, N. Chen, H. Qi, X. Yang, L.Jiang, Y. Nie, Q. Luo, 2024, Experimental Validation via a Real Building with Truss Roof on RealTime Early Warning System for Fire-Induced Collapse, Fire Safety Journal (under review)
-3. G-Q. Li, et.al, L. Jiang, 2024, Dataset for Fire-Induced Collapse Test on an Existing Building with a Truss Roof, Journal of Structural Engineering (under review)
+3. Jinyu Li; Shaojun Zhu; Guo-Qiang Li; Chao Zhang; Bin Chen; Nan Chen; Xiaolin Yang; Liming Jiang; Jiazeng Shan; Honghui Qi; Wei Ji; Yao Wang, 2024, Dataset for Fire-Induced Collapse Test on an Existing Building with a Truss Roof, Journal of Structural Engineering.
 4. Z.Zhuang, F. Xu, J. Ye, N. Hu, Liming Jiang，Yiwei Weng,2024. A Comprehensive Review of Sustainable Materials and Toolpath Optimization in 3D Concrete Printing,  npj Materials Sustainability.
 5. T. Chu, C. Chen, G. Wang, Y. Tian, D.Yuan, G. Zhang, Y. T. Lam, A. Usmani, Liming Jiang *. 2023. Mechanisms of Active Opening Strategy in Mitigating Compartment Fires: Insights from Reduced-scaled Experiments, Proceedings of Combustion Institute (under review).
 6. Xuesong Cai, Liming Jiang *, Chengyu Yang *, G.Lou, G-Q.Li, A. Usmani. 2023. [Hybrid simulation with multiple synchronized substructures as virtual fire-exposed models and physical specimen in laboratory](https://doi.org/10.1016/j.istruc.2024.105936). Structures, 60, 105936 (https://doi.org/10.1016/j.istruc.2024.105936).
@@ -17,7 +17,7 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 8. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2023.Experimental investigation of precast composite slabs subjected to natural fires，Construction and Building Materials (under review).
 9. Cheng Chen, Liming Jiang*, Tianwei Chu, Asif Usmani, A conceptual design of timber-insulation mixed slab section to mitigate fast fire development due to timber fire exposure (pending to submission)
 10. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2024. [A novel multi-pattern control for automated structure design using topology optimization to balance form and performance](https://doi.org/10.1016/j.engstruct.2024.117581), Engineering Structures, 303, 117581. (https://doi.org/10.1016/j.engstruct.2024.117581)
-11. Cheng Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2024. A layered heat transfer model for predicting thermal responses of timber sections exposed to realistic fires.  (pending to submission).
+11. Cheng Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2024. Modelling Heat Transfer of Timber Sections Subjected to Non-standard Fire Action. Fire Technology (under review).
 
 1. Jin Qiu & Liming Jiang*.2023.[Development of modular and reusable AI models for fast predicting fire behaviour of steel columns in structural systems](https://doi.org/10.1016/j.engstruct.2023.116994). Engineering Structures, 297, 116994 (https://doi.org/10.1016/j.engstruct.2023.116994) (Editor's Featured Paper Award).
 2. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.[Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models](https://doi.org/10.1016/j.istruc.2023.105668). Structures, 58, 105668(https://doi.org/10.1016/j.istruc.2023.105668)
@@ -59,8 +59,10 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 11. J. Jiang, Liming Jiang, P. Kotsovinos, J. Zhang and A. Usmani, 2015. [OpenSees Software Architecture for the Analysis of Structures in Fire](https://doi.org/10.1061/(ASCE)CP.1943-5487.000030). Journal of Computing in Civil Engineering, 29(1):1-13.
 12. S.W. Chen, Liming Jiang, A. Usmani, G.Q. Li and C. Jin, 2015. [Damage mechanisms in cementitious coatings on steel members under axial loading](https://doi.org/10.1016/j.conbuildmat.2015.04.025). Construction & Building Materials , 90:18-35.
 13. S.W. Chen, Liming Jiang, A. Usmani and G.Q. Li, 2014. [Damage mechanisms in cementitious coatings on steel members in bending](https://doi.org/10.1680/stbu.13.00096). Proceedings of the ICE - Structures and Buildings, 168(5):351–369. 
-14. 廖志娟; 陈素文; 江黎明; 吴林森, 2012. 纯弯荷载下厚型钢结构防火涂层破损的试验研究和数值分析. 防灾减灾工程学报，32：197-204. 
 
+[Journal Papers in Chinese]
+1. 廖志娟; 陈素文; 江黎明; 吴林森, 2012. 纯弯荷载下厚型钢结构防火涂层破损的试验研究和数值分析. 防灾减灾工程学报，32：197-204. 
+2. 李晋宇;李国强;朱劭骏;张超;陈彬;吉蔚;戚洪辉;王尧;陈楠;杨晓琳;江黎明;聂勇峰;罗齐,2024. 既有桁架屋盖建筑火致倒塌试验与数值模拟. 建筑结构学报，（under review）.
 
 #### Book
 
