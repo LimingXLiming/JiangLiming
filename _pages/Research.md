@@ -41,7 +41,6 @@ This radiant panel testing system is supported by the Large Equipment Fund(LEF20
 ![]({{site.baseurl}}/images/hybrid.jpg)
 The idea of hybrid testing is to analyze global behaviour using a structural system model and to capture local behaviour of structural members using laboratory tests. We know a large model using beam type elements can not describe complex local behaviour such as buckling induced by fire protection damage or localised heating, nor is possible to use full-3D detailed models for a whole building structure. Using OpenFRESCO as middleware and OpenSees for fire platform, we are hoping to use hybrid simulation/testing techniques to reshape the research methodology when evaluating modern buildings in fire. More excitingly, we can bring the AI approach into the simulation framework and relevant papers will come out soon. 
 
-
 ***
 ## Strategic collaboration on testing facilities and research
 * Fire testing and hybrid testing in Tongji University, supported by MoU and an open fund project with [Prof LI Guoqiang](http://steelpro.net/Default.aspx).

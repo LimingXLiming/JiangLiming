@@ -54,6 +54,8 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
 #### Academic Duties
+* Program Leader of MSc in Fire Safety Engineering.
+* Vice Director of Tongji University International Joint Research Laboratory on Fire Safety Engineering
 * Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
 * Member of Local Organising Committee of 5th 3D Construction Printing Conference, 2024, Hong Kong
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
@@ -70,6 +72,7 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
 * Reviewer for more than 20 international journals, including "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
+
 
 #### Awards
 * Wiley Top Downloaded Article 2022, FIre and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
