@@ -77,7 +77,7 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 #### Grants
 * BEEE Departmental Strategic Research Fund, 1M HKD, 2024-2027, PI.
 * HKSTP Ideation Grant, 100K HKD, 2024, PI.
-* PolyU Micro Fund Top Performer, 20K HKD, 2024, PI (in progress towards Incubation Grant).
+* PolyU Micro Fund Top Performer, 20K HKD, 2024(in progress towards Incubation Grant), PI.
 * PolyU Fund for collaborative research with World-Leading Research Groups, 199M HKD, 2024-2026, Co-PI.
 * Post-doc Matching Fund to Dr Wu Taotao, 0.55M HKD, 2024-2026, PI.
 * UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
