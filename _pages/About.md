@@ -75,6 +75,8 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
 #### Grants
+* HKSTP Ideation Grant, 100K HKD, 2024, PI.
+* PolyU Micro Fund Top Performer, 20K HKD, 2024, PI (in progress towards Incubation Grant).
 * BEEE Departmental Strategic Research Fund, 1M HKD, 2024-2027, PI.
 * PolyU Fund for collaborative research with World-Leading Research Groups, 199M HKD, 2024-2026, Co-PI.
 * Post-doc Matching Fund to Dr Wu Taotao, 0.55M HKD, 2024-2026, PI.
