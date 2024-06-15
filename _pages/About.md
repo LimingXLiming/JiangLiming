@@ -19,7 +19,8 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 
 #### Work Experience
 -In University
-* Assistant Professor, BSE, The Hong Kong Polytechnic University, from 2019.10  
+* Assistant Professor, BEEE, The Hong Kong Polytechnic University, from 2019.10  
+* Program Leader of MSc Fire Safety Engineering, BEEE, The Hong Kong Polytechnic University, from 2024  
 * Part-time Research Fellow, The Hong Kong Polytechnic University, 2018.02-2019.02 
 * Postdoctoral Research Fellow, The Hong Kong Polytechnic University, 2016.09-2017.12
 * Postdoctoral Research Fellow, Brunel University London, 2016.01-2016.08
@@ -55,7 +56,7 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 
 #### Academic Duties
 * Program Leader of MSc in Fire Safety Engineering.
-* Vice Director of Tongji University International Joint Research Laboratory on Fire Safety Engineering
+* Vice Director of Tongji University International Joint Research Laboratory on Fire Safety Engineering.
 * Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
 * Member of Local Organising Committee of 5th 3D Construction Printing Conference, 2024, Hong Kong
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
@@ -73,9 +74,29 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * Reviewer for more than 20 international journals, including "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
+#### Grants
+* BEEE Departmental Strategic Research Fund, 1M HKD, 2024-2027, PI.
+* PolyU Fund for collaborative research with World-Leading Research Groups, 199M HKD, 2024-2026, Co-PI.
+* Post-doc Matching Fund to Dr Wu Taotao, 0.55M HKD, 2024-2026, PI.
+* UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
+* PolyU Incentive for Online Teaching Scheme, 792K HKD, 2023-2024, Co-PI.
+* RGC General Research Fund (GRF),1.13M HKD, 2024-2026, PI.
+* RISUD Joint Research Fund, 1.2M HKD, 2023-2025, PI.
+* FCE Young Collaborative Research Fund, 500K HKD, 2023-2025, PI.
+* Croucher Conference Sponsorship Grant, 100K HKD, 2022, PI.
+* RIAM Research Fund, 500K HKD, 2022-2024, Co-I.
+* PolyU MOOC Fund, 400K HKD, 2020-2023, Co-I.
+* PolyU Large Equipment Fund for Teaching, 737K HKD, 2021-2022, PI.
+* State Key Lab of Disaster Reduction in Civil Engineering Open Fund, 500K CNY, 2021-2023, PI.
+* Post-doc Matching Fund to Dr Cai Xuesong, 283K HKD, 2021-2022, PI.
+* SHUA Research Activity Fund, 40K HKD, 2021, PI.
+* University Start-up Fund, 600K HKD, 2020-2023, PI.
+* Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
+* Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
+* Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
 
 #### Awards
-* Wiley Top Downloaded Article 2022, FIre and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
+* Wiley Top Downloaded Article 2022, Fire and Materials, "OpenSees development for modelling timber structural memberssubjected to realistic fire impact", 2024
 * Editor's Featured Paper Award of "Engineering Structures" Journal, "Development of reusable AI Models for fast predicting fire behaviour of steel Columns in structural systems", 2023. 
 * Best Resrach Award in Young Researcher Forum of National Engineering Technology Research Center for Prefabrication Construction in Civil Engineering, Oct 2022.
 * Wiley Top cited Article 2020-2021, Fire and Materials, 'An extendeded travelling fire methof framework for performance-based structural design'.
