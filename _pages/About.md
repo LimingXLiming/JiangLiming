@@ -54,7 +54,7 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * Guest Editor of Fire Technology, "Structures in Fire"
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
-#### Academic Duties
+#### Academic Posts
 * Program Leader of MSc in Fire Safety Engineering.
 * Vice Director of Tongji University International Joint Research Laboratory on Fire Safety Engineering.
 * Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
