@@ -77,7 +77,7 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 #### Grants
 -External Grants
 
-* RGC General Research Fund (GRF),964K HKD, 2025-2027, PI.
+* RGC General Research Fund (GRF),946K HKD, 2025-2027, PI.
 * HKSTP Ideation Grant, 100K HKD, 2024, PI.
 * UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
 * RGC General Research Fund (GRF),1.13M HKD, 2024-2026, PI.
