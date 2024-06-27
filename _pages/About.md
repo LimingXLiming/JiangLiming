@@ -75,23 +75,28 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
 #### Grants
-* BEEE Departmental Strategic Research Fund, 1M HKD, 2024-2027, PI.
+-External Grants
+
+* RGC General Research Fund (GRF),964K HKD, 2025-2027, PI.
 * HKSTP Ideation Grant, 100K HKD, 2024, PI.
+* UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
+* RGC General Research Fund (GRF),1.13M HKD, 2024-2026, PI.
+* Croucher Conference Sponsorship Grant, 100K HKD, 2022, PI.
+* State Key Lab of Disaster Reduction in Civil Engineering Open Fund, 500K CNY, 2021-2023, PI.
+* SHUA Research Activity Fund, 40K HKD, 2021, PI.
+-Internal Grants
+
+* BEEE Departmental Strategic Research Fund, 1M HKD, 2024-2027, PI.
 * PolyU Micro Fund Top Performer, 20K HKD, 2024(in progress towards Incubation Grant), PI.
 * PolyU Fund for collaborative research with World-Leading Research Groups, 1.99M HKD, 2024-2026, Co-PI.
 * Post-doc Matching Fund to Dr Wu Taotao, 0.55M HKD, 2024-2026, PI.
-* UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
 * PolyU Incentive for Online Teaching Scheme, 792K HKD, 2023-2024, Co-PI.
-* RGC General Research Fund (GRF),1.13M HKD, 2024-2026, PI.
 * RISUD Joint Research Fund, 1.2M HKD, 2023-2025, PI.
 * FCE Young Collaborative Research Fund, 500K HKD, 2023-2025, PI.
-* Croucher Conference Sponsorship Grant, 100K HKD, 2022, PI.
 * RIAM Research Fund, 500K HKD, 2022-2024, Co-I.
 * PolyU MOOC Fund, 400K HKD, 2020-2023, Co-I.
 * PolyU Large Equipment Fund for Teaching, 737K HKD, 2021-2022, PI.
-* State Key Lab of Disaster Reduction in Civil Engineering Open Fund, 500K CNY, 2021-2023, PI.
 * Post-doc Matching Fund to Dr Cai Xuesong, 283K HKD, 2021-2022, PI.
-* SHUA Research Activity Fund, 40K HKD, 2021, PI.
 * University Start-up Fund, 600K HKD, 2020-2023, PI.
 * Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
 * Undergraduate Research and Innovation Scheme (URIS), 30K HKD, 2021-2022, PI.
@@ -105,7 +110,7 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * Departmental Teaching Award, Department of Building Environment and Energy Engineering, 2021.
 * Outstanding employee of the year, Country Garden Group (HuZhe Region), 2018.
 
-[Awards to Supervised Students or Projects]
+-Awards to Supervised Students or Projects
 * Best URIS Project Award (Merit Award)to Miss LAM Ying Tung (as project supervisor), 2023
 * IAFSS Sheldon Tieszen Student Award to PhD student CHU Tianwei for Best Student Papers in IAFSS 2023 (as cheif PhD supervisor and corresponding author) .
 * FSICA Award 2023 to Mr LIU Jiahao for Best Student Project Performance in fire safety engineering in Hong Kong (as project superviosr).

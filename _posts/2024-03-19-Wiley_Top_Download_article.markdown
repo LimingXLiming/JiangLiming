@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ours OpenSees timber paper is recognized by Wiley as Top Downloaded Article  
+title:  Our OpenSees timber paper is recognized by Wiley as Top Downloaded Article  
 date:   2024-03-19 18:01:35 +0800
 image:  Top_downloaded.jpg
 tags:   News
