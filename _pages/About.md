@@ -84,6 +84,8 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * Croucher Conference Sponsorship Grant, 100K HKD, 2022, PI.
 * State Key Lab of Disaster Reduction in Civil Engineering Open Fund, 500K CNY, 2021-2023, PI.
 * SHUA Research Activity Fund, 40K HKD, 2021, PI.
+
+
 -Internal Grants
 
 * BEEE Departmental Strategic Research Fund, 1M HKD, 2024-2027, PI.
