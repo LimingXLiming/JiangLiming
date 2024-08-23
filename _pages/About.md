@@ -50,7 +50,9 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
 
 #### Editorial Duties
-* Editorial Board Member of [Fire Safety Journal](https://www.sciencedirect.com/journal/fire-safety-journal)
+* Editorial Board Member of [Fire Safety Journal(JCR Q2)](https://www.sciencedirect.com/journal/fire-safety-journal)
+* Editorial Board Member of [Fire Technology(JCR Q2)](https://link.springer.com/journal/10694/editors)
+* 建筑钢结构进展青年编委 (Young Editor of Building Steel Structures Progress)
 * Guest Editor of Fire Technology, "Structures in Fire"
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
