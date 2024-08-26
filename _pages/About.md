@@ -32,22 +32,10 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 
 
 #### Research Interests
-* Fire safety of modern buildings 
-* Fire-safe timber-integrated structures
-* Autonomous Contruction Technologies
-* Computational modelling 
-* Hybrid simulation/testing 
-* OpenSees software development
+* Fire safety of modern buildings using timber-integrated design and automated construction
+* Computational modelling & Hybrid simulation/testing 
+* [OpenSees software](https://openseesforfire.github.io/) development 
 
-
-#### Teaching Subjects
-* BSE3321:Fire Services, Undergraduate Subject
-* BSE4317:Fire Engineering Safety Management, Undergraduate Subject
-* CSE39482: Structural Resilience and Fire Risk Management
-* BSE532:Fire Engineering Systems, MEng Subject
-* BSE534:Legislation Aspects of Fire Safety Management, MEng Subject
-* BSE574/577:Research Methods, MEng Subject
-* BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
 
 #### Editorial Duties
 * Editorial Board Member of [Fire Safety Journal(JCR Q2)](https://www.sciencedirect.com/journal/fire-safety-journal)
@@ -121,3 +109,13 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 * The HKIE Outstanding Paper Award for Young Engineers/ Researchers 2023 to Miss LAM Ying Tung for her URIS project paper "Study of Fire Impact on Glass Panels" (as project supervisor).
 * The HKIE (Fire Division) Scholarship 2022 to Miss LAM Ying Tung for student excellence in fire safety engineering (as project supervisor).
 * FSICA Award 2022 to Miss LAM Ying Tung for Best Student Project Performance in fire safety engineering in Hong Kong(as project supervisor).
+
+
+#### Teaching Subjects
+* BSE3321:Fire Services, Undergraduate Subject
+* BSE4317:Fire Engineering Safety Management, Undergraduate Subject
+* CSE39482: Structural Resilience and Fire Risk Management
+* BSE532:Fire Engineering Systems, MEng Subject
+* BSE534:Legislation Aspects of Fire Safety Management, MEng Subject
+* BSE574/577:Research Methods, MEng Subject
+* BSE3713, BSE Capstone Projects; BSE 4723: BSE Final Year Projects; BSE575: MEng Project
