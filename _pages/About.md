@@ -47,19 +47,22 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 #### Academic Posts
 * Program Leader of MSc in Fire Safety Engineering.
 * Vice Director of Tongji University International Joint Research Laboratory on Fire Safety Engineering.
+* Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
+* Member of Technical Committee of on the Code of Practice for Fire Safety in Buildings.
+* Organising Chair of MS-05 in 1st International Conference of Engineering Structures.
 * Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
 * Member of Local Organising Committee of 5th 3D Construction Printing Conference, 2024, Hong Kong
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
 * Chair of Organising Committee of International Conference on Structures in Fire (SIF2022).
-* Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
 * Member of Society of Fire Protection Engineers (SFPE)
 * Member of International Association for Fire Safety Sceience (IAFSS)
 * Research leader of structural fire engineering, Research Center for Fire Safety Engineering, PolyU.
 * Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
 * Chair of mini-symposium of ICOSSAR 2021: fire safety, smart fire application.
 * Scientific Committee Member of AOSFST 2021.
-* Scientific Committee Member of SIF 2018, 2020, 2022, 2024; Session Chair of SIF2020, SiF2022.
+* Scientific Committee Member of SIF 2018, 2020, 2022, 2024; Session Chair of SIF2020, SiF2022, SiF2024.
 * Scientific Committee Member of CONFAB2017, 2019; Session Chair of CONFAB2017.
+* Session Chair of Protect 2024.
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
 * Reviewer for more than 20 international journals, including "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
@@ -78,9 +81,11 @@ I am an Assistant Professor in Department of Building Environment and Energy Eng
 
 -Internal Grants
 
-* BEEE Departmental Strategic Research Fund, 1M HKD, 2024-2027, PI.
+* BEEE Departmental Strategic Research Fund on "fire detection", 1M HKD, 2024-2027, PI.
+* BEEE Departmental Strategic Research Fund on "3D Printing", 1M HKD, 2024-2027, Co-I.
 * PolyU Micro Fund Top Performer, 20K HKD, 2024(in progress towards Incubation Grant), PI.
 * PolyU Fund for collaborative research with World-Leading Research Groups, 1.99M HKD, 2024-2026, Co-PI.
+* Post-doc Matching Fund to Dr Ji Wei, 0.55M HKD, 2024-2026, Co-I.
 * Post-doc Matching Fund to Dr Wu Taotao, 0.55M HKD, 2024-2026, PI.
 * PolyU Incentive for Online Teaching Scheme, 792K HKD, 2023-2024, Co-PI.
 * RISUD Joint Research Fund, 1.2M HKD, 2023-2025, PI.
