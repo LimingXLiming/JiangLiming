@@ -7,17 +7,19 @@ image: pub.jpg
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
 1. Peijun Wang, Huai Wang; Bingyan Tang; Ning An; Mei Liu; Yang Li; Liming Jiang; Hexin Zhang,2024, Post-fire mechanical properties of 3D printed concrete under different cooling methods, Journal of Building Engineering(under review)
-2. C. Liu, G. Zhang, D. Yuan, Liming Jiang, Y. Fan, Experimental study on suppressing thermal runaway propagation of electric vehicle batteries by hydrogel, Fire Technology (under review)
-2. G-Q.Li, J.Li, C. Zhang, B.Chen,W. Ji, Y. Wang, N. Chen, H. Qi, X. Yang, L.Jiang, Y. Nie, Q. Luo, 2024, Experimental Validation via a Real Building with Truss Roof on RealTime Early Warning System for Fire-Induced Collapse, Fire Safety Journal (under review)
-3. Jinyu Li; Shaojun Zhu; Guo-Qiang Li; Chao Zhang; Bin Chen; Nan Chen; Xiaolin Yang; Liming Jiang; Jiazeng Shan; Honghui Qi; Wei Ji; Yao Wang, 2024, Dataset for Fire-Induced Collapse Test on an Existing Building with a Truss Roof, Journal of Structural Engineering.
-4. Z.Zhuang, F. Xu, J. Ye, N. Hu, Liming Jiang，Yiwei Weng,2024. [A Comprehensive Review of Sustainable Materials and Toolpath Optimization in 3D Concrete Printing](https://doi.org/10.1038/s44296-024-00017-9),  npj Materials Sustainability (https://doi.org/10.1038/s44296-024-00017-9).
-5. T. Chu, C. Chen, G. Wang, Y. Tian, D.Yuan, G. Zhang, Y. T. Lam, A. Usmani, Liming Jiang *. 2024. Mechanisms of Active Opening Strategy in Mitigating Compartment Fires: Insights from Reduced-scaled Experiments, Proceedings of Combustion Institute (under review).
-6. Xuesong Cai, Liming Jiang *, Chengyu Yang *, G.Lou, G-Q.Li, A. Usmani. 2024. [Hybrid simulation with multiple synchronized substructures as virtual fire-exposed models and physical specimen in laboratory](https://doi.org/10.1016/j.istruc.2024.105936). Structures, 60, 105936 (https://doi.org/10.1016/j.istruc.2024.105936).
-7. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang, Chengyu Yang *. 2024. [Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests](https://doi.org/10.1002/eqe.4138), Earthquake Engineering and Structural Dynamics. (https://doi.org/10.1002/eqe.4138)
-8. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2024.Experimental investigation of precast composite slabs subjected to natural fires，Construction and Building Materials (under review).
-9. Cheng Chen, Liming Jiang*, Tianwei Chu, Asif Usmani, A conceptual design of timber-insulation mixed slab section to mitigate fast fire development due to timber fire exposure (pending to submission)
-10. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2024. [A novel multi-pattern control for automated structure design using topology optimization to balance form and performance](https://doi.org/10.1016/j.engstruct.2024.117581), Engineering Structures, 303, 117581. (https://doi.org/10.1016/j.engstruct.2024.117581)
-11. Cheng Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2024. Modelling Heat Transfer of Timber Sections Subjected to Non-standard Fire Action. Fire Technology (under review).
+2. Shou-Zhen Li; Jin-Jin Wang; Liming Jiang; Ran Deng*;Yu-Hang Wang, 2024. Machine learning-based strength prediction for circular concrete-filled double-skin steel tubular columns, Engineering Structures (under review).
+3. S-Z.Li, X-H. Zhou, X-S. Zhang, Y-H. Wang, L. Jiang. 2024. Optimization of tunned mass damper for steel-concrete hybrid wind turbine tower based on genetic algorithm, structures (under review).
+4. Cheng Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2024. Modelling Heat Transfer of Timber Sections Subjected to Non-standard Fire Action. Fire Technology (under review).
+5. C. Liu, G. Zhang, D. Yuan, L. Jiang, Y. Fan, 2024, Experimental study on suppressing thermal runaway propagation of electric vehicle batteries by hydrogel, Fire Technology (in press).
+6. G-Q.Li, J.Li, C. Zhang, B.Chen,W. Ji, Y. Wang, N. Chen, H. Qi, X. Yang, L.Jiang, Y. Nie, Q. Luo, 2024, Experimental Validation via a Real Building with Truss Roof on RealTime Early Warning System for Fire-Induced Collapse, Fire Technology(under review)
+7. Jinyu Li; Shaojun Zhu; Guo-Qiang Li; Chao Zhang; Bin Chen; Nan Chen; Xiaolin Yang; Liming Jiang; Jiazeng Shan; Honghui Qi; Wei Ji; Yao Wang, 2024, [Dataset for Fire-Induced Collapse Test on an Existing Building with a Truss Roof](https://doi.org/10.1061/JSENDH.STENG-13689), Journal of Structural Engineering.
+8. Z.Zhuang, F. Xu, J. Ye, N. Hu, Liming Jiang，Yiwei Weng,2024. [A Comprehensive Review of Sustainable Materials and Toolpath Optimization in 3D Concrete Printing](https://doi.org/10.1038/s44296-024-00017-9),  npj Materials Sustainability (https://doi.org/10.1038/s44296-024-00017-9).
+9. T. Chu, C. Chen, G. Wang, Y. Tian, D.Yuan, G. Zhang, Y. T. Lam, A. Usmani, Liming Jiang *. 2024. Mechanisms of Active Opening Strategy in Mitigating Compartment Fires: Insights from Reduced-scaled Experiments, Combustion and Flames (under review).
+10. Xuesong Cai, Liming Jiang *, Chengyu Yang *, G.Lou, G-Q.Li, A. Usmani. 2024. [Hybrid simulation with multiple synchronized substructures as virtual fire-exposed models and physical specimen in laboratory](https://doi.org/10.1016/j.istruc.2024.105936). Structures, 60, 105936 (https://doi.org/10.1016/j.istruc.2024.105936).
+11. Xuesong Cai, Y. Yuan, Z.Liu, Liming Jiang, Chengyu Yang *. 2024. [Effects of Axial Compression Ratio on Seismic Performance of Shallow-buried Subway Tunnels Determined by Full-scale Column Tests](https://doi.org/10.1002/eqe.4138), Earthquake Engineering and Structural Dynamics. (https://doi.org/10.1002/eqe.4138)
+12. J. Qiu, Liming Jiang*, C. Yang, G. Lou, Y. Wang, G. Li, A. Usmani.2024.Experimental investigation of precast composite slabs subjected to natural fires，Construction and Building Materials (in press).
+13. Zixin Zhang, Liming Jiang*, Tejeswar Yarlagadda, Yao Zheng, Asif Usmani, 2024. [A novel multi-pattern control for automated structure design using topology optimization to balance form and performance](https://doi.org/10.1016/j.engstruct.2024.117581), Engineering Structures, 303, 117581. (https://doi.org/10.1016/j.engstruct.2024.117581)
+
 
 1. Jin Qiu & Liming Jiang*.2023.[Development of modular and reusable AI models for fast predicting fire behaviour of steel columns in structural systems](https://doi.org/10.1016/j.engstruct.2023.116994). Engineering Structures, 297, 116994 (https://doi.org/10.1016/j.engstruct.2023.116994) (Editor's Featured Paper Award).
 2. Jin Qiu, Liming Jiang*, X. Cai, G. Li, A. Usmani.2023.[Reconstruct the load redistribution paths in multi-floor fire scenarios using 3D structural models](https://doi.org/10.1016/j.istruc.2023.105668). Structures, 58, 105668(https://doi.org/10.1016/j.istruc.2023.105668)
@@ -108,6 +110,10 @@ For more information, please visit [My ResearchGate Page](https://www.researchga
 
 
 #### Webinar and Invited Talks
+* Keynote Presentation at The 6th Eurasian Conference on OpenSees, Beijing, 24 July 2024.
+* Invited talk at FCE Annual Forum: Sharing of my GRF application experiences, 21 July 2024
+* Development of fire-safe solutions for modern buildings at PolyU, Ghent University, 17 June 2024.
+* Workshop for WGO Competition: Fire safety and advanced solutions for sustainable building construction, 10 May 2024.
 * Introduction of OpenSees for fire for modelling structures in fire and AI-FE hybrid Simulation, Universiti Teknologi Malaysia(UTM),  4 Mar 2024.
 * Numerical Modelling and Experimental Study for fire safety of modern buildings, Jingganshan University, Ji’An, 23 Nov 2023.
 * Future Fire-safe Facade Glass System with Active Ventilation, Joint Symposium 2023- Shaping the future: Trends and Insights for Tomorrow Technologies Development in Greater Bay Area, 22 Nov 2023.
