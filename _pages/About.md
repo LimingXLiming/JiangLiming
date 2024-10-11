@@ -47,11 +47,13 @@ liming.jiang(at)Polyu.edu.hk
 * Guest Editor of International Journal of High-rise Buildings, "Fire safety of tall buildings"
 
 #### Academic Posts
-* Program Leader of MSc in Fire Safety Engineering.
+* Program Leader of MSc Fire and Safety Engineering.
 * Vice Director of Tongji University International Joint Research Laboratory on Fire Safety Engineering.
 * Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
-* Member of Technical Committee of on the Code of Practice for Fire Safety in Buildings.
+* Member of Technical Committee of The Code of Practice for Fire Safety in Buildings, Hong Kong Building Department.
+* Member of Education Committee of International Association for Fire Safety Science. 
 * Organising Chair of MS-05 in 1st International Conference of Engineering Structures.
+* Co-organiser of 1st Workshop for International Joint Laboratory on Fire Safety Engineering, Wuhan, 2024.
 * Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
 * Member of Local Organising Committee of 5th 3D Construction Printing Conference, 2024, Hong Kong
 * Co-Chair of 'Structure' workshop in IAFSS 2023.
