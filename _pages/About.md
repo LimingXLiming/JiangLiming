@@ -52,7 +52,7 @@ liming.jiang(at)Polyu.edu.hk
 * Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
 * Member of Technical Committee of The Code of Practice for Fire Safety in Buildings, Hong Kong Building Department.
 * Member of Education Committee of International Association for Fire Safety Science. 
-* Organising Chair of MS-05 in 1st International Conference of Engineering Structures.
+* Organising Chair of MS-05(Structures in Fire) in 1st International Conference of Engineering Structures, Nov, 2024.
 * Co-organiser of 1st Workshop for International Joint Laboratory on Fire Safety Engineering, Wuhan, 2024.
 * Member of Technical Program Committee of 6th International Conference on Modelling in Mechanics and Materials, 2024, Kula Lumpur, Malaysia.
 * Member of Local Organising Committee of 5th 3D Construction Printing Conference, 2024, Hong Kong
@@ -63,12 +63,13 @@ liming.jiang(at)Polyu.edu.hk
 * Research leader of structural fire engineering, Research Center for Fire Safety Engineering, PolyU.
 * Member of Research Institute of Sustainable Urban Development (RISUD) and Research Institute of Advanced Manufacturing (RIAM).
 * Chair of mini-symposium of ICOSSAR 2021: fire safety, smart fire application.
+* Scientific Committee member of IFireSS 2025.
 * Scientific Committee Member of AOSFST 2021.
 * Scientific Committee Member of SIF 2018, 2020, 2022, 2024; Session Chair of SIF2020, SiF2022, SiF2024.
 * Scientific Committee Member of CONFAB2017, 2019; Session Chair of CONFAB2017.
 * Session Chair of Protect 2024.
 * Advisor of SFPE Hong Kong Student Chapter (2021 Gold Award, 2022 Gold Award for excellence of student chapter)
-* Reviewer for more than 20 international journals, including "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", “Engineering Structures”, "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
+* Reviewer for more than 30 international journals, including “Engineering Structures”, "Journal of Building Engineeing", "Steel and Composite Structures, "Thin-walled Structures", "Construction and Building Materials", "Fire Safety Journal", "Fire Technology", "Computers and Concrete", “Structures”, “Advances in Structural Engineering”, "Advances in Engineering Software", “Journal of Structural Engineering”, etc.
 * External Reviewer of “Technical specification for Construction details of fire protection for timber structures”, 2021. 
 
 #### Grants
