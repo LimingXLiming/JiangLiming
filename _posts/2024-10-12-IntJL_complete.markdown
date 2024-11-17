@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Completition of International Joint Lab workshop
+title:  First International Joint Laboratory Workshop
 date:   2024-10-12 12:01:35 +0800
 image:  IJTLworkshop.png
 tags:   News
