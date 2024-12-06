@@ -48,7 +48,7 @@ liming.jiang(at)Polyu.edu.hk
 
 #### Academic Posts
 * Program Leader of MSc Fire and Safety Engineering.
-* Vice Director of Tongji University International Joint Research Laboratory on Fire Safety Engineering.
+* Vice Director of International Joint Research Laboratory on Fire Safety Engineering (based in Tongji University).
 * Member of Professional Committee of Structural Fire Engineering, The Architectural Society of China.
 * Member of Technical Committee of The Code of Practice for Fire Safety in Buildings, Hong Kong Building Department.
 * Member of Education Committee of International Association for Fire Safety Science. 
@@ -74,7 +74,7 @@ liming.jiang(at)Polyu.edu.hk
 
 #### Grants
 -External Grants
-
+* Sub-project of Shenzhen Key R&D Project (深圳市重大专项), 1M CNY (Total fund: 8M CNY), 2025-2027, PI.
 * RGC General Research Fund (GRF),946K HKD, 2025-2027, PI.
 * HKSTP Ideation Grant, 100K HKD, 2024, PI.
 * UGC Fund for Innovative Technology-in-Education (FITE), 200K HKD, 2023-2025, PI.
