@@ -7,8 +7,8 @@ image: pub.jpg
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
 1. C. Cheng, F. Wiesner, T. Chu, A. Usmani, L.Jiang *.2024, A conceptual design of timber-insulation mixed slab surface to mitigate large open-plan compartment fire development, Journal of Building Engineering (under review).
-2. Shou-Zhen Li; Jin-Jin Wang; Liming Jiang; Ran Deng*;Yu-Hang Wang, 2024. Machine learning-based strength prediction for circular concrete-filled double-skin steel tubular columns, Engineering Structures (under review).
-3. S-Z.Li, X-H. Zhou, X-S. Zhang, Y-H. Wang, L. Jiang. 2024. Optimization of tunned mass damper for steel-concrete hybrid wind turbine tower based on genetic algorithm, structures (under review).
+2. Shou-Zhen Li; Jin-Jin Wang; Liming Jiang; Ran Deng*;Yu-Hang Wang, 2024. Machine learning-based strength prediction for circular concrete-filled double-skin steel tubular columns, Engineering Structures (in press).
+3. S-Z.Li, X-H. Zhou, X-S. Zhang, Y-H. Wang, L. Jiang. 2024. Optimization of tunned mass damper for steel-concrete hybrid wind turbine tower based on genetic algorithm, structures (in press).
 4. Cheng Chen, Liming Jiang*, M. S. Mclaggan, S. Wang, A. Usmani. 2024. Modelling Heat Transfer of Timber Sections Subjected to Non-standard Fire Action. Fire Technology (under review).
 5. C. Liu, G. Zhang, D. Yuan, L. Jiang, Y. Fan,D.Kong, 2024, [Experimental Study on the Efficiency of Hydrogel on Suppressing Thermal Runaway Propagation of Lithium-Ion Battery](https://doi.org/10.1007/s10694-024-01631-8), Fire Technology,(https://doi.org/10.1007/s10694-024-01631-8).
 6. G-Q.Li, J.Li, C. Zhang, B.Chen,W. Ji, Y. Wang, N. Chen, H. Qi, X. Yang, L.Jiang, Y. Nie, Q. Luo, 2024, [An Experiment on a Real Building with Truss Roof to Validate Real-Time Early-Warning System for Fire-Induced Collapse](https://doi.org/10.1007/s10694-024-01671-0), Fire Technology.(https://doi.org/10.1007/s10694-024-01671-0)
