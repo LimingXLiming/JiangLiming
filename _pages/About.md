@@ -85,7 +85,7 @@ liming.jiang(at)Polyu.edu.hk
 
 
 -Internal Grants
-
+* BEEE Safety Research Fund, 1.5M HKD, 2024-2027, Co-I (0.3M to Dr Jiang).
 * BEEE Departmental Strategic Research Fund on "fire detection", 1M HKD, 2024-2027, PI.
 * BEEE Departmental Strategic Research Fund on "3D Printing", 1M HKD, 2024-2027, Co-I.
 * PolyU Micro Fund Top Performer, 20K HKD, 2024(in progress towards Incubation Grant), PI.
