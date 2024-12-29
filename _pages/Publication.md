@@ -7,6 +7,7 @@ image: pub.jpg
 For more information, please visit [My ResearchGate Page](https://www.researchgate.net/profile/Liming-Jiang-2/publications).
 #### Journal Publication
 1. Shou-Zhen Li; Jin-Jin Wang; Liming Jiang; Ran Deng*;Yu-Hang Wang, 2025. [Machine learning-based strength prediction for circular concrete-filled double-skin steel tubular columns](https://doi.org/10.1016/j.engstruct.2024.119460), Engineering Structures, 325, 119460 (https://doi.org/10.1016/j.engstruct.2024.119460).
+2. J.Wang, S. Li*, J. Qiu, C. Chen, T. Chu, Y. Tian, P. Wang, Y.Weng, A. Usmani, L. Jiang*, Experimental investigation on thermal performance of 3D printed concrete elements subjected to fire, Fire and Materials (SIF2024 invited submission).
 2. C. Cheng, F. Wiesner, T. Chu, A. Usmani, L.Jiang *.2024, A conceptual design of timber-insulation mixed slab surface to mitigate large open-plan compartment fire development, Journal of Building Engineering (under review).
 3. Peijun Wang, Huai Wang; Bingyan Tang; Ning An; Mei Liu; Yang Li; Liming Jiang; Hexin Zhang,2024, Post-fire mechanical properties of 3D printed concrete under different cooling methods, Journal of Building Engineering(under review)
 3. S-Z.Li, X-H. Zhou, X-S. Zhang, Y-H. Wang, L. Jiang. 2024. Optimization of tunned mass damper for steel-concrete hybrid wind turbine tower based on genetic algorithm, structures (in press).
